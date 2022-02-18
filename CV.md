@@ -2,4 +2,4 @@
 layout: page
 ---
 
-{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
+{% include embed.html url="https://github.com/MTueting/MTueting.github.io/blob/master/t_ting_cv__Copy.pdf" %}
