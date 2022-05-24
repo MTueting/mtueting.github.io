@@ -37,6 +37,7 @@ title: ""
         <ul>
           <li> Political Economics (2021-2022) </li>
         </ul>
+      </li>
     </ul>
   </div>
 </body> 
