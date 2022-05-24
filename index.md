@@ -10,6 +10,10 @@ title: ""
     <p> I am a Ph.D. student in Economics at the University of St.Gallen, Switzerland. <br>
       My research covers topics in economic geography, regional economics, and conflict with a focus on developing countries. </p>
     <p> I am passionate about the spatial distribution of economic activity and people, geospatial data, history, remote sensing, and economics. </p>
+    
+    <p> You can find my CV <a href="https://github.com/MTueting/mtueting.github.io/blob/master/t_ting_cv__Copy.pdf">here</a>.</p>
+    <p> You might also want to have look at my <a href="https://mtueting.github.io/blog/">Blog</a>, where I occasionally post code examples that might be helpful for other researchers. </p>
+    
   </div>
    
   <div style="clear:both;"></div>
