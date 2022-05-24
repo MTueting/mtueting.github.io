@@ -1,8 +1,8 @@
 ---
-title:  "Sattelite Imagery and the Google Earth Engine"
+title:  "Test"
 mathjax: true
 layout: post
 categories: media
 ---
 
-### This post shows some useful examples of using the Earth Engine to efficiently handle large satellite imagery with the Google Earth Engine.
+![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
