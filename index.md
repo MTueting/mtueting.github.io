@@ -24,13 +24,18 @@ title: ""
   <div>
     <h2> Teaching </h2>
     <ul> 
-      <h1> Bachelor (TA) </h1>
-      <li> Public Sector Economics (2022) </li>
-      <li> Development Economics (2020-2022) </li>
-      <li> Data Handling: Import, Cleaning, and Visualisation (2021-2022) </li>
-      <li> Introduction to Macroeconomics (2017-2019) </li>
-      <li> Operations Management (2017) </li>
-      <h1> Master (TA) </h1>
-      <li> Political Economics (2021-2022) </li>
+      <li> <h4> Bachelor (TA) </h4>
+        <ul>
+          <li> Public Sector Economics (2022) </li>
+          <li> Development Economics (2020-2022) </li>
+          <li> Data Handling: Import, Cleaning, and Visualisation (2021-2022) </li>
+          <li> Introduction to Macroeconomics (2017-2019) </li>
+          <li> Operations Management (2017) </li>
+        </ul>
+      </li>
+      <li> <h4> Master (TA) </h4>
+        <ul>
+          <li> Political Economics (2021-2022) </li>
+        </ul>
     </ul>
 </body> 
