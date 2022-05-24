@@ -58,4 +58,4 @@ Map.addLayer(zones, {min: 1, max: 3, palette: ['0000FF', '00FF00', 'FF0000']}, '
 var display = ee.Image(0).updateMask(0).paint(vectors, '000000', 3);
 Map.addLayer(display, {palette: '000000'}, 'vectors');
 
-{{ "{% endhighlight " }}%}
+{% endhighlight %}
