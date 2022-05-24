@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-<link rel="icon" type="image/x-icon" href="/assets/github-img/favicon-32x32.png">
+<link rel="icon" type="image/png" href="/assets/github-img/favicon-32x32.png">
 
 <body>
   <div>
