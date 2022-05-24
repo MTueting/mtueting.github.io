@@ -22,6 +22,7 @@ To use the Earth Engine by yourself, you are required to register at https://sig
 # Case Study 1: Measuring Urban Sprawl from Nightlights
 
 {% highlight javascript %}
+
 // Load a Japan boundary from the Large Scale International Boundary dataset.
 var japan = ee.FeatureCollection('USDOS/LSIB_SIMPLE/2017')
   .filter(ee.Filter.eq('country_na', 'Japan'));
@@ -53,4 +54,5 @@ Map.addLayer(zones, {min: 1, max: 3, palette: ['0000FF', '00FF00', 'FF0000']}, '
 // Make a display image for the vectors, add it to the map.
 var display = ee.Image(0).updateMask(0).paint(vectors, '000000', 3);
 Map.addLayer(display, {palette: '000000'}, 'vectors');
+
 {{ "{% endhighlight " }}%}
