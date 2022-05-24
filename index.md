@@ -16,6 +16,8 @@ title: ""
   </div>
 </body> 
 
+<br clear="">
+
 <body>
   <h2> Current Research </h2>
   <li> Cultural Frictions and Infrastructure in Africa, with Roland Hodler and Paul Schaudt </li>
