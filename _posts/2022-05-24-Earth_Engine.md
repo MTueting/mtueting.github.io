@@ -1,10 +1,10 @@
 ---
-title:  "Getting Started With Google's Earth Engine"
+title:  "In Progess: Getting Started With Google's Earth Engine"
 mathjax: true
 layout: post
 categories: media
 ---
-
+<head> <link rel="shortcut icon" type="image/png" href="favicon-32x32.png"> </head>
 In this blog post, I show two usecases of the Google Earth Engine for Economic research.
 
 ## What is the Google Earth Engine?
