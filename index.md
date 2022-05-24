@@ -5,7 +5,7 @@ title: ""
 
 <body>
   <img align="left" width="28%" height="28%" src="assets/github-img/profile.png" style="margin-right: 2em">
-  ### About me
+  <h2> About me </h2>
   <div>
     <p> I am a Econ Ph.D. student at the University of St.Gallen, Switzerland. <br>
       My research is in the fields of economic geography, regional economics, and conflict with a focus on developing countries. </p>
@@ -17,8 +17,8 @@ title: ""
 </body> 
 
 <body>
-### Current Research 
-<li> Cultural Frictions and Infrastructure in Africa, with Roland Hodler and Paul Schaudt </li>
-<li> Transportation, Employment Density and Structural Change. </li>
-<li> Conflict, Internal Displacement, and Return Migration. </li>
+  <h2> Current Research </h2>
+  <li> Cultural Frictions and Infrastructure in Africa, with Roland Hodler and Paul Schaudt </li>
+  <li> Transportation, Employment Density and Structural Change. </li>
+  <li> Conflict, Internal Displacement, and Return Migration. </li>
 </body> 
