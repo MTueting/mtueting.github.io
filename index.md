@@ -6,7 +6,7 @@ title: ""
 <img align="left" width="28%" height="28%" src="assets/github-img/profile.png" style="margin-right: 2em">
 
 <body style="margin-top: 0.5em">
- 
+<br> </br>
 
 I am a Econ Ph.D. student at the University of St.Gallen, Switzerland. My research is in the fields of economic geography, regional economics, and conflict with a focus on developing countries. 
   
