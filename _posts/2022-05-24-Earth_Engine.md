@@ -18,13 +18,13 @@ Some advantages of the Earth Engine:
 You can check out a number of highlighted case studies directly at [Case Studies](https://earthengine.google.com/case_studies/). 
 To use the Earth Engine by yourself, you are required to [register](https://signup.earthengine.google.com/) (for free). 
 
-## Earth Engine for Economic Research 
-### Case Study 1: Measuring Urban Sprawl from Nightlights
+## Earth Engine for Economics
+### Case Study 1: Measuring Urban Sprawl from Space
 This case study is based on the excellent [tutorial](https://developers.google.com/earth-engine/guides/reducers_reduce_to_vectors) for raster to vector conversion.
 The tutorial shows how to delimit areas by their night light intensity. To measure urban sprawl, I extend the code by a time dimension.
 
 ##### Step 1: Replicate Tutorial
-{% highlight javascript %}
+{% highlight js %}
 
 // Load a Japan boundary from the Large Scale International Boundary dataset.
 var japan = ee.FeatureCollection('USDOS/LSIB_SIMPLE/2017')
