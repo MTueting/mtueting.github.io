@@ -2,8 +2,7 @@
 layout: page
 title: ""
 ---
-<link rel="icon" type="image/png" href="assets/github-img/favicon-32x32.png">
-test2
+
 <body>
   <div>
     <img align="left" width="25%" height="25%" src="assets/github-img/profile-crop.png" style="margin-right: 2em">
