@@ -2,7 +2,7 @@
 layout: page
 title: "Home"
 ---
-
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 <body>
   <div>
     <img align="left" width="25%" height="25%" src="assets/github-img/profile-crop.png" style="margin-right: 2em">
