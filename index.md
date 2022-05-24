@@ -14,7 +14,9 @@ title: ""
       or analysis. <br>
       In a recent research project, I trained a Convolutional Neural Network to automize the digitization of historic road maps. </p>
   </div>
+  
   <div style="clear:both;"></div>
+  
   <div>
     <h2> Current Research </h2>
     <li> Cultural Frictions and Infrastructure in Africa, with Roland Hodler and Paul Schaudt </li>
