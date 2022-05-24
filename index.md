@@ -5,7 +5,7 @@ title: ""
 
 <body>
   <div>
-    <img align="left" width="30%" height="30%" src="assets/github-img/profile-crop.png" style="margin-right: 2em">
+    <img align="left" width="25%" height="25%" src="assets/github-img/profile-crop.png" style="margin-right: 2em">
     <h2> About me </h2>
     <p> I am a Ph.D. student in Economics at the University of St.Gallen, Switzerland. <br>
       My research covers topics in economic geography, regional economics, and conflict with a focus on developing countries. </p>
