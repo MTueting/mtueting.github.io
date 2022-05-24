@@ -3,6 +3,4 @@ layout: page
 title: Curriculum Vitae
 ---
 
-<embed src="https://MTueting.github.io/t_ting_cv__Copy.pdf" type="application/pdf">
-
-
+<object data="t_ting_cv__Copy.pdf" width="1000" height="1000" type='application/pdf'></object>
