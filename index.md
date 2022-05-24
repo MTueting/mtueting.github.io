@@ -4,7 +4,7 @@ title: ""
 ---
 
 ## Michael Tueting
-<img align="right" width="25%" height="25%" src="assets/github-img/profile.png">
+<img align="left" width="25%" height="25%" src="assets/github-img/profile.png">
 
 I am a Econ Ph.D. student at the University of St.Gallen, Switzerland. My research is in the fields of economic geography, regional economics, and conflict with a focus on developing countries. I am passionate about the spatial distribution of economic activity and people. 
 
