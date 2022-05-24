@@ -9,7 +9,7 @@ title: ""
     <h2> About me </h2>
     <p> I am a Ph.D. student in Economics at the University of St.Gallen, Switzerland. <br>
       My research covers topics in economic geography, regional economics, and conflict with a focus on developing countries. </p>
-    <p> I am passionate about the spatial distribution of economic activity and people, geospatial data, history, remote sensing, and Economics. </p>
+    <p> I am passionate about the spatial distribution of economic activity and people, geospatial data, history, remote sensing, and economics. </p>
   </div>
    
   <div style="clear:both;"></div>
