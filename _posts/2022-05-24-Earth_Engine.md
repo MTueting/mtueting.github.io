@@ -23,7 +23,7 @@ To use the Earth Engine by yourself, you are required to [register](https://sign
 This case study is based on the excellent [tutorial](https://developers.google.com/earth-engine/guides/reducers_reduce_to_vectors) for raster to vector conversion.
 The tutorial shows how to delimit areas by their night light intensity. To measure urban sprawl, I extend the code by a time dimension.
 
-##### Step 1: Replicate Tutorial
+#### Step 1: Replicate Tutorial
 {% highlight js %}
 
 // Load a Japan boundary from the Large Scale International Boundary dataset.
