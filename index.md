@@ -14,4 +14,3 @@ My research is in the fields of economic geography, regional economics, and conf
 <p> As a byproduct of my focus on developing countries, I often rely on satellite imagery or historic maps and constantly develop tools for spatial data generation or analysis. <br>
 In a recent research project, I trained a Convolutional Neural Network to automize the digitization of historic road maps. </p>
 
-<img src="assets/github-img/saentis-crop.png">
