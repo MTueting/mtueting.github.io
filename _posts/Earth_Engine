@@ -1,1 +1,8 @@
+---
+title:  "Sattelite Imagery and the Google Earth Engine"
+mathjax: true
+layout: post
+categories: media
+---
 
+### This post shows some useful examples of using the Earth Engine to efficiently handle large satellite imagery with the Google Earth Engine.
