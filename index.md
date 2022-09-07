@@ -22,7 +22,7 @@ title: ""
     <h2> Current Research </h2>
     <li> Cultural Frictions and Infrastructure in Africa, with Roland Hodler and Paul Schaudt. </li>
     <li> Transportation, Employment Density and Structural Change. </li>
-    <li> Conflict, Internal Displacement, and Return Migration. </li>
+    <li> The Agents of Structural Change. </li>
   </div>
   
   <div>
