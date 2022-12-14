@@ -8,8 +8,8 @@ title: ""
     <img align="left" width="25%" height="25%" src="assets/github-img/profile-crop.png" style="margin-right: 2em">
     <h2> About me </h2>
     <p> I am a Ph.D. student in Economics at the University of St.Gallen, Switzerland. <br>
-      My research covers topics in spatial economics and development economics. </p>
-    <p> I am passionate about the spatial distribution of economic activity and people, geospatial data, history, remote sensing, and economics. </p>
+      My research covers topics in urban economics and development economics. </p>
+    <p> I am passionate about the spatial distribution of economic activity and people, geospatial data, and remote sensing. </p>
     
     <p> You can find my CV <a href="https://mtueting.github.io/t_ting_cv__Copy.pdf">here</a>.</p>
     <!--<p> You might also want to have a look at my <a href="https://mtueting.github.io/blog/">Blog</a>, where I occasionally post code examples that might be helpful for other researchers. </p>-->
@@ -19,10 +19,10 @@ title: ""
   <div style="clear:both;"></div>
   
   <div>
-    <h2> Current Research </h2>
+    <h2> Work in Progress </h2>
+    <li> Trade, Climate Change, and Welfare in Sub-Saharan Africa.
     <li> Cultural Frictions and Infrastructure in Africa, with Roland Hodler and Paul Schaudt. </li>
-    <li> Trade, Climate Change, and Welfare in Sub-Saharan Africa. </li>
-    <li> The Agents of Structural Change. </li>
+    <li> Actors of Structural Change, with Charles Gottlieb and Markus Poschke. </li>
   </div>
   
   <div>
