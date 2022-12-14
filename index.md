@@ -20,7 +20,7 @@ title: ""
   
   <div>
     <h2> Work in Progress </h2>
-    <li> Trade, Climate Change, and Welfare in Sub-Saharan Africa.
+    <li> Trade, Climate Change, and Welfare in Sub-Saharan Africa. </li>
     <li> Cultural Frictions and Infrastructure in Africa, with Roland Hodler and Paul Schaudt. </li>
     <li> Actors of Structural Change, with Charles Gottlieb and Markus Poschke. </li>
   </div>
