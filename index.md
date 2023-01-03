@@ -11,7 +11,7 @@ title: ""
       My research covers topics in urban economics and development economics. </p>
     <p> I am passionate about the spatial distribution of economic activity and people, geospatial data, and remote sensing. </p>
     
-    <p> You can find my CV <a href="https://mtueting.github.io/t_ting_cv.pdf">here</a>.</p>
+    <p> You can find my CV <a href="https://mtueting.github.io/michael_CV.pdf">here</a>.</p>
     <!--<p> You might also want to have a look at my <a href="https://mtueting.github.io/blog/">Blog</a>, where I occasionally post code examples that might be helpful for other researchers. </p>-->
     
   </div>
