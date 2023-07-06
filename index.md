@@ -21,7 +21,7 @@ title: ""
   <div>
     <h2> Work in Progress </h2>
     <li> Trade, Climate Change, and Welfare in Sub-Saharan Africa. </li>
-    <li> Accounting for cultural frictions: Market access and optimal road networks in Africa, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href:="https://paulschaudt.com/">Paul Schaudt</a>. </li>
+    <li> Accounting for cultural frictions: Market access and optimal road networks in Africa, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href:="https://paulschaudt.com">Paul Schaudt</a>. </li>
       <details>
           <summary>Abstract.</summary>
           <p>This paper introduces cultural barriers in the measurement of market access and quantifies the growth effects of improved cross-ethnic border infrastructure connections within African countries. 
