@@ -24,7 +24,7 @@ title: ""
     <li> <b>Accounting for cultural frictions: Market access and optimal road networks in Africa</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
       <details>
           <summary><u>Abstract.</u></summary>
-          <p>This paper introduces cultural barriers in the measurement of market access and quantifies the growth effects of improved cross-ethnic border infrastructure connections within African countries. 
+          <p>This paper introduces cultural barriers in the measurement of market access and quantifies the growth effects of improved cross-ethnic border roads within African countries. 
 We then set up a simple model of road improvements in the presence of costly ethnic-border trade and highlight the implications for short-term infrastructure investments. </p>
       </details>
     <li> <b>Skill Supply, Firm Size, and Economic Development</b>, with <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a> and <a href="https://markus-poschke.research.mcgill.ca/">Markus Poschke</a>. </li>
