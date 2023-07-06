@@ -24,7 +24,7 @@ title: ""
     <li> Accounting for cultural frictions: Market access and optimal road networks in Africa, with Roland Hodler and Paul Schaudt. </li>
       <details>
           <summary>Abstract.</summary>
-          <p>This paper introduces cultural barriers in the reduced-form measurement of market access and quantifies the growth effects of improved cross-ethnic border infrastructure connections within African countries. 
+          <p>This paper introduces cultural barriers in the measurement of market access and quantifies the growth effects of improved cross-ethnic border infrastructure connections within African countries. 
 We then set up a simple model of road improvements in the presence of costly ethnic-border trade and highlight the implications for short-term infrastructure investments. </p>
       </details>
     <li> Skill Supply, Firm Size, and Economic Development, with Charles Gottlieb and Markus Poschke. </li>
