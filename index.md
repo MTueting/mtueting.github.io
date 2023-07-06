@@ -28,10 +28,12 @@ title: ""
 We then set up a simple model of road improvements in the presence of costly ethnic-border trade and highlight the implications for short-term infrastructure investments. </p>
       </details>
     <li> Skill Supply, Firm Size, and Economic Development, with Charles Gottlieb and Markus Poschke. </li>
+      <details>
           <summary>Abstract.</summary>
           <p>This paper employs a harmonized dataset that combines data from labor force and household surveys to compare firm size distributions across countries at different stages of development. 
 In particular, we examine the joint distribution of skills by firm size and study how it evolves across country income levels.
 We then use a span-of-control model with worker skill heterogeneity to disentangle the impact of barriers to firm growth and skill supply on economic development. The findings provide insights into the complex interplay between firm size, skill distribution, and economic development.</p>
+      </details>
   </div>
   
   <div>
