@@ -20,16 +20,16 @@ title: ""
   
   <div>
     <h2> Work in Progress </h2>
-    <li> Trade, Climate Change, and Welfare in Sub-Saharan Africa. </li>
-    <li> Accounting for cultural frictions: Market access and optimal road networks in Africa, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
+    <li> <b>Trade, Climate Change, and Welfare in Sub-Saharan Africa.</b> </li>
+    <li> <b>Accounting for cultural frictions: Market access and optimal road networks in Africa</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
       <details>
-          <summary>Abstract.</summary>
+          <summary><u>Abstract.</u></summary>
           <p>This paper introduces cultural barriers in the measurement of market access and quantifies the growth effects of improved cross-ethnic border infrastructure connections within African countries. 
 We then set up a simple model of road improvements in the presence of costly ethnic-border trade and highlight the implications for short-term infrastructure investments. </p>
       </details>
-    <li> Skill Supply, Firm Size, and Economic Development, with <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a> and <a href="https://markus-poschke.research.mcgill.ca/">Markus Poschke</a>. </li>
+    <li> <b>Skill Supply, Firm Size, and Economic Development</b>, with <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a> and <a href="https://markus-poschke.research.mcgill.ca/">Markus Poschke</a>. </li>
       <details>
-          <summary>Abstract.</summary>
+          <summary><u>Abstract.</u></summary>
           <p>This paper employs a harmonized dataset that combines data from labor force and household surveys to compare firm size distributions across countries at different stages of development. 
 In particular, we examine the joint distribution of skills by firm size and study how it evolves across country income levels.
 We then use a span-of-control model with worker skill heterogeneity to disentangle the impact of barriers to firm growth and skill supply on economic development. The findings provide insights into the complex interplay between firm size, skill distribution, and economic development.</p>
