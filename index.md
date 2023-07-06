@@ -27,7 +27,7 @@ title: ""
           <p>This paper introduces cultural barriers in the measurement of market access and quantifies the growth effects of improved cross-ethnic border infrastructure connections within African countries. 
 We then set up a simple model of road improvements in the presence of costly ethnic-border trade and highlight the implications for short-term infrastructure investments. </p>
       </details>
-    <li> Skill Supply, Firm Size, and Economic Development, with Charles Gottlieb and Markus Poschke. </li>
+    <li> Skill Supply, Firm Size, and Economic Development, with <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a> and <a href="https://markus-poschke.research.mcgill.ca/">Markus Poschke</a>. </li>
       <details>
           <summary>Abstract.</summary>
           <p>This paper employs a harmonized dataset that combines data from labor force and household surveys to compare firm size distributions across countries at different stages of development. 
