@@ -7,8 +7,7 @@ title: ""
   <div>
     <img align="left" width="40%" height="40%" src="assets/github-img/PHDcon2023WU-56.jpg" style="margin-right: 2em">
     <h2> About me </h2>
-    <p> I am a Ph.D. student in Economics at the <a href="https://www.unisg.ch/en/">University of St.Gallen</a>, Switzerland. <br>
-      My research covers topics in urban economics and development economics. </p>
+    <p> I am a Ph.D. student in Economics at the <a href="https://www.unisg.ch/en/">University of St.Gallen</a>, Switzerland. My research covers topics in urban economics, trade, and development economics. </p>
     <p> From September 23 to June 24, I am visiting <a href="https://sites.google.com/site/adamstoreygard">Adam Storeygard</a> at Tufts. </p>
     <p> I am passionate about the spatial distribution of economic activity and people, geospatial data, and remote sensing. </p>
     
