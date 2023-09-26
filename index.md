@@ -20,7 +20,7 @@ title: ""
   
   <div>
     <h2> Work in Progress </h2>
-    <li> <b>Trade, Climate Change, and Welfare in Sub-Saharan Africa.</b> </li>
+    <li> <b>Trade to Adapt: Transportation and Climate Resilience in Sub-Saharan Africa.</b> </li>
     <li> <b>Accounting for cultural frictions: Market access and optimal road networks in Africa</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
       <details>
           <summary><u>Abstract.</u></summary>
