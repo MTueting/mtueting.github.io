@@ -21,7 +21,7 @@ title: ""
   <div>
     <h2> Work in Progress </h2>
     <li> <b>Trade to Adapt: Transportation and Climate Resilience in Sub-Saharan Africa.</b> </li>
-    <li> <b>Accounting for cultural frictions: Market access and optimal road networks in Africa</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
+    <li> <b>Accounting for cultural frictions: Market access and road networks in Africa</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
       <details>
           <summary><u>Abstract.</u></summary>
           <p>This paper introduces cultural barriers in the measurement of market access and quantifies the growth effects of improved cross-ethnic border roads within African countries. 
