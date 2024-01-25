@@ -21,17 +21,15 @@ title: ""
   <div>
     <h2> Work in Progress </h2>
     <li> <b>Trade to Adapt: Transportation and Climate Resilience in Sub-Saharan Africa.</b> </li>
-    <!--<li> <b>Accounting for cultural frictions: Market access and road networks in Africa</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
-      <details>
-          <summary><u>Abstract.</u></summary>
-          <p>This paper introduces cultural barriers in the measurement of market access and quantifies the growth effects of improved cross-ethnic border roads within African countries. 
-We then set up a simple model of road improvements in the presence of costly ethnic-border trade and highlight the implications for short-term infrastructure investments. </p>
-      </details>
-    -->
     <li> <b>Skill Supply, Firm Size, and Economic Development</b>, with <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a> and <a href="https://markus-poschke.research.mcgill.ca/">Markus Poschke</a>. </li>
       <details>
           <summary><u>Abstract.</u></summary>
           <p>In this paper, we examine the joint distribution of workers' skills by firm size and study how it evolves across country income levels. We then use a span-of-control model with worker skill heterogeneity to disentangle the impact of barriers to firm growth and skill supply on economic development and to simulate the effect of scarcer skill endowments on the skill composition of different firms, relative wages by firm size, the size distribution of firms, and aggregate productivity.</p>
+      </details>
+    <li> <b>How Large are Language Barriers in Africa?</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
+      <details>
+          <summary><u>Abstract.</u></summary>
+          <p>In this paper, we estimate the elasticity of intra-national trade costs with respect to language differences in Africa. Our proposed estimation strategy does not require bilateral trade data on the sub-national level but recovers the elasticity non-linearly from observed population growth and changes in the African transportation network between 1970 and 2015 using a market access approach. </p>
       </details>
   </div>
   
