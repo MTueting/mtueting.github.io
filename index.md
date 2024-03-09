@@ -31,7 +31,7 @@ title: ""
           <summary><u>Abstract.</u></summary>
           <p>In this paper, we estimate the elasticity of intra-national trade costs with respect to language differences in Africa. Our proposed estimation strategy does not require bilateral trade data on the sub-national level but recovers the elasticity non-linearly from observed population growth and changes in the African transportation network between 1970 and 2015 using a market access approach. </p>
       </details>
-    <li> <b>R&D and Trade: Seed Varieties in Africa.</b>, with <a href="https://sites.google.com/view/annekrahn">Anne Krahn</a></li>
+    <li> <b>R&D and Trade: Seed Varieties in Africa</b>, with <a href="https://sites.google.com/view/annekrahn">Anne Krahn.</a></li>
   </div>
   
   <div>
