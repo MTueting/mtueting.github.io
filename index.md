@@ -20,25 +20,29 @@ title: ""
   
   <div>
     <h2> Work in Progress </h2>
-    <li> <b>Transportation Infrastructure and Climate Resilience in Developing Countries.</b> </li>
-    <li> <b>Skill Supply, Firm Size, and Economic Development</b>, with <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a> and <a href="https://markus-poschke.research.mcgill.ca/">Markus Poschke</a>. </li>
-      <details>
-          <summary><u>Abstract.</u></summary>
-          <p>In this paper, we examine the joint distribution of workers' skills by firm size and study how it evolves across country income levels. We then use a span-of-control model with worker skill heterogeneity to disentangle the impact of barriers to firm growth and skill supply on economic development and to simulate the effect of scarcer skill endowments on the skill composition of different firms, relative wages by firm size, the size distribution of firms, and aggregate productivity.</p>
-      </details>
-    <li> <b>How Large are Language Barriers in Africa?</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
-      <details>
-          <summary><u>Abstract.</u></summary>
-          <p>In this paper, we estimate the elasticity of intra-national trade costs with respect to language differences in Africa. Our proposed estimation strategy does not require bilateral trade data on the sub-national level but recovers the elasticity non-linearly from observed population growth and changes in the African transportation network between 1970 and 2015 using a market access approach. </p>
-      </details>
-    <li> <b>R&D and Trade: Seed Varieties in Africa</b>, with <a href="https://sites.google.com/view/annekrahn">Anne Krahn</a>.</li>
+    <ul>
+      <li> <b>Transportation Infrastructure and Climate Resilience in Developing Countries.</b> </li>
+      <li> <b>Skill Supply, Firm Size, and Economic Development</b>, with <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a> and <a href="https://markus-poschke.research.mcgill.ca/">Markus Poschke</a>. </li>
+        <details>
+            <summary><u>Abstract.</u></summary>
+            <p>In this paper, we examine the joint distribution of workers' skills by firm size and study how it evolves across country income levels. We then use a span-of-control model with worker skill heterogeneity to disentangle the impact of barriers to firm growth and skill supply on economic development and to simulate the effect of scarcer skill endowments on the skill composition of different firms, relative wages by firm size, the size distribution of firms, and aggregate productivity.</p>
+        </details>
+      <li> <b>How Large are Language Barriers in Africa?</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
+        <details>
+            <summary><u>Abstract.</u></summary>
+            <p>In this paper, we estimate the elasticity of intra-national trade costs with respect to language differences in Africa. Our proposed estimation strategy does not require bilateral trade data on the sub-national level but recovers the elasticity non-linearly from observed population growth and changes in the African transportation network between 1970 and 2015 using a market access approach. </p>
+        </details>
+      <li> <b>R&D and Trade: Seed Varieties in Africa</b>, with <a href="https://sites.google.com/view/annekrahn">Anne Krahn</a>.</li>
+    </ul>
   </div>
+
   
   <div>
     <h2> Teaching </h2>
-    <ul> 
-      <li> <h4> Bachelor (TA) </h4>
-        <ul>
+    <ul>
+      <li> 
+        <h4 class="course-header"> Bachelor (TA) </h4>
+        <ul class="course-list" id="bachelor-list">
           <li> Economics of Climate Change (2023) </li>
           <li> Public Sector Economics (2022-2023) </li>
           <li> Development Economics (2020-2022) </li>
@@ -47,11 +51,22 @@ title: ""
           <li> Operations Management (2017) </li>
         </ul>
       </li>
-      <li> <h4> Master (TA) </h4>
-        <ul>
+      <li> 
+        <h4 class="course-header"> Master (TA) </h4>
+        <ul class="course-list" id="master-list">
           <li> Political Economics (2021-2022) </li>
         </ul>
       </li>
     </ul>
   </div>
+
+<script>
+  // JavaScript to toggle visibility of course list
+  document.querySelectorAll('.course-header').forEach(item => {
+    item.addEventListener('click', event => {
+      let courseList = item.nextElementSibling;
+      courseList.classList.toggle('active');
+    });
+  });
+</script>
 </body> 
