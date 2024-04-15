@@ -1,3 +1,8 @@
+---
+layout: page
+title: ""
+---
+
 <body>
   <div>
     <!-- About me section -->
