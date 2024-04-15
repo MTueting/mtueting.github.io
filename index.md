@@ -40,6 +40,7 @@ title: ""
   <div>
     <!-- Teaching Assistance section -->
     <h2> Teaching Assistance </h2>
+    <ul>
     <details>
         <summary><u> Bachelor (TA) </u></summary>
         <ul>
@@ -57,5 +58,6 @@ title: ""
             <li> Political Economics (2021-2022) </li>
         </ul>
     </details>
+    </ul>
   </div>
 </body>
