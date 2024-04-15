@@ -60,11 +60,5 @@ title: ""
     </ul>
   </div>
 
-<script>
-  // JavaScript function to toggle visibility of course list
-  function toggleList(listId) {
-    var courseList = document.getElementById(listId);
-    courseList.style.display = (courseList.style.display === 'none') ? 'block' : 'none';
-  }
-</script>
-</body> 
+<script src="_includes/toggle.js"></script>
+</body>
