@@ -60,5 +60,22 @@ title: ""
     </ul>
   </div>
 
-<script src="_includes/toggle.js"></script>
-</body>
+<script>
+  // JavaScript function to toggle visibility of course list
+function toggleList(listId) {
+  var courseList = document.getElementById(listId);
+  var listItems = courseList.getElementsByTagName('li');
+  var numVisibleItems = 3; // Change this number as desired for the number of initially visible items
+  
+  for (var i = 0; i < listItems.length; i++) {
+    if (i < numVisibleItems) {
+      listItems[i].style.display = 'block';
+    } else {
+      listItems[i].style.display = 'none';
+    }
+  }
+  
+  courseList.style.display = (courseList.style.display === 'none') ? 'block' : 'none';
+}
+</script>
+</body> 
