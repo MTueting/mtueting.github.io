@@ -41,8 +41,8 @@ title: ""
     <h2> Teaching </h2>
     <ul>
       <li> 
-        <h4 class="course-header"> Bachelor (TA) </h4>
-        <ul class="course-list" id="bachelor-list">
+        <h4 class="course-header" onclick="toggleList('bachelor-list')"> Bachelor (TA) </h4>
+        <ul class="course-list" id="bachelor-list" style="display: none;">
           <li> Economics of Climate Change (2023) </li>
           <li> Public Sector Economics (2022-2023) </li>
           <li> Development Economics (2020-2022) </li>
@@ -52,8 +52,8 @@ title: ""
         </ul>
       </li>
       <li> 
-        <h4 class="course-header"> Master (TA) </h4>
-        <ul class="course-list" id="master-list">
+        <h4 class="course-header" onclick="toggleList('master-list')"> Master (TA) </h4>
+        <ul class="course-list" id="master-list" style="display: none;">
           <li> Political Economics (2021-2022) </li>
         </ul>
       </li>
@@ -61,12 +61,10 @@ title: ""
   </div>
 
 <script>
-  // JavaScript to toggle visibility of course list
-  document.querySelectorAll('.course-header').forEach(item => {
-    item.addEventListener('click', event => {
-      let courseList = item.nextElementSibling;
-      courseList.classList.toggle('active');
-    });
-  });
+  // JavaScript function to toggle visibility of course list
+  function toggleList(listId) {
+    var courseList = document.getElementById(listId);
+    courseList.style.display = (courseList.style.display === 'none') ? 'block' : 'none';
+  }
 </script>
 </body> 
