@@ -15,7 +15,7 @@ title: ""
     
   </div>
    
- 
+  <div style="clear:both;"></div>
   <div>
     <h2> Work in Progress </h2>
     <li> <b>Transportation Infrastructure and Climate Resilience in Developing Countries.</b> </li>
@@ -32,27 +32,28 @@ title: ""
     <li> <b>R&D and Trade: Seed Varieties in Africa</b>, with <a href="https://sites.google.com/view/annekrahn">Anne Krahn</a>.</li>
   </div>
 
-  
+   <div style="clear:both;"></div>
   <div>
     <details>
-      <summary><h2> Teaching Assistance </h2></summary>
+        <summary><h2> Teaching Assistance </h2></summary>
         <ul> 
-          <li> <h4> Bachelor (TA) </h4>
-            <ul>
-              <li> Economics of Climate Change (2023) </li>
-              <li> Public Sector Economics (2022-2023) </li>
-              <li> Development Economics (2020-2022) </li>
-              <li> Data Handling: Import, Cleaning, and Visualisation (2021-2023) </li>
-              <li> Introduction to Macroeconomics (2017-2019) </li>
-              <li> Operations Management (2017) </li>
-            </ul>
-          </li>
-          <li> <h4> Master (TA) </h4>
-            <ul>
-              <li> Political Economics (2021-2022) </li>
-            </ul>
-          </li>
+            <li> <h4> Bachelor (TA) </h4>
+                <ul>
+                    <li> Economics of Climate Change (2023) </li>
+                    <li> Public Sector Economics (2022-2023) </li>
+                    <li> Development Economics (2020-2022) </li>
+                    <li> Data Handling: Import, Cleaning, and Visualisation (2021-2023) </li>
+                    <li> Introduction to Macroeconomics (2017-2019) </li>
+                    <li> Operations Management (2017) </li>
+                </ul>
+            </li>
+            <li> <h4> Master (TA) </h4>
+                <ul>
+                    <li> Political Economics (2021-2022) </li>
+                </ul>
+            </li>
         </ul>
     </details>
-  </div>
+</div>
+
 </body>
