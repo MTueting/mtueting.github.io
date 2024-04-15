@@ -9,8 +9,7 @@ title: ""
     <h2> About me </h2>
     <p> I am a Ph.D. student in Economics at the <a href="https://www.unisg.ch/en/">University of St.Gallen</a>, Switzerland. My research covers topics in Regional Economics, Development Economics, and International Trade. </p>
     <p> From September 23 through June 24, I am visiting <a href="https://sites.google.com/site/adamstoreygard">Adam Storeygard</a> at Tufts. </p>
-    <p> I am passionate about the spatial distribution of economic activity and the role of spatial frictions. </p>
-    
+    <p> I will be on the academic job market in 25/26 </p>
     <p> You can find my CV <a href="https://mtueting.github.io/tueting_CV.pdf">here</a>.</p>
     <!--<p> You might also want to have a look at my <a href="https://mtueting.github.io/blog/">Blog</a>, where I occasionally post code examples that might be helpful for other researchers. </p>-->
     
