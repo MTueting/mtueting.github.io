@@ -21,7 +21,7 @@ title: ""
     <h2> Work in Progress </h2>
     <ul>
       <li> <b>Transportation Infrastructure and Climate Resilience in Developing Countries.</b> </li>
-      <li> <b>Skill Supply, Firm Size, and Economic Development</b>, with <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a> and <a href="https://markus-poschke.research.mcgill.ca/">Markus Poschke</a>. </li>
+      <li> <b><span style="color:rgb(255,0,0);">Coming soon:</span> First version of Skill Supply, Firm Size, and Economic Development</b>, with <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a> and <a href="https://markus-poschke.research.mcgill.ca/">Markus Poschke</a>. </li>
         <details>
             <summary><u>Abstract.</u></summary>
             <p>In this paper, we examine the joint distribution of workers' skills by firm size and study how it evolves across country income levels. We then use a span-of-control model with worker skill heterogeneity to disentangle the impact of barriers to firm growth and skill supply on economic development and to simulate the effect of scarcer skill endowments on the skill composition of different firms, relative wages by firm size, the size distribution of firms, and aggregate productivity.</p>
