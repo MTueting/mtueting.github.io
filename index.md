@@ -24,14 +24,13 @@ title: ""
       <li> <b><span style="color:rgb(255,0,0);">Coming soon:</span> First version of Skill Supply, Firm Size, and Economic Development</b>, with <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a> and <a href="https://markus-poschke.research.mcgill.ca/">Markus Poschke</a>. </li>
         <details>
             <summary><u>Abstract.</u></summary>
-            <p>We harmonize individual-level data on labor supply for 54 countries. We use these data to document how firm size and the skill intensity of employment by firm size vary across countries. First, we document that the share of employment in large firms in high-income countries is more than three times larger than in low-income countries. Second, we show that across countries, employees of large firms are more skilled than those of small firms. Third, lower skill endowments in low-income countries affect employment in firms of different sizes asymmetrically: the skill intensity of employment is much lower in small firms in poor compared to large countries but only slightly lower in large firms. This evidence suggests that large firms rely particularly strongly on employing high-skill workers, so that the low-skill endowment of low-income countries limits the size of firms in these countries.</p>
+            <p>We harmonize individual-level data on labor supply for 54 countries. We use these data to document how firm size and the skill intensity of employment by firm size vary across countries. First, we document that the share of employment in large firms in high-income countries is more than three times larger than in low-income countries. Second, we show that across countries, employees of large firms are more skilled than those of small firms. Third, lower skill endowments in low-income countries affect employment in firms of different sizes asymmetrically: the skill intensity of employment is much lower in small firms in poor compared to rich countries but only slightly lower in large firms. This evidence suggests that large firms rely particularly strongly on employing high-skill workers, so that the low-skill endowment of low-income countries limits the size of firms in these countries.</p>
         </details>
       <li> <b>How Large are Language Barriers in Africa?</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
         <details>
             <summary><u>Abstract.</u></summary>
             <p>In this paper, we estimate the elasticity of intra-national trade costs with respect to language differences in Africa. Our proposed estimation strategy does not require bilateral trade data on the sub-national level but recovers the elasticity non-linearly from observed population growth and changes in the African transportation network between 1970 and 2015 using a market access approach. </p>
         </details>
-      <li> <b>R&D and Trade: Seed Varieties in Africa</b>, with <a href="https://sites.google.com/view/annekrahn">Anne Krahn</a>.</li>
     </ul>
   </div>
 
