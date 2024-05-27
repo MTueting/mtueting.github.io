@@ -29,7 +29,7 @@ title: ""
       <li> <b>How Large are Language Barriers in Africa?</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
         <details>
             <summary><u>Abstract.</u></summary>
-            <p>In this paper, we estimate the elasticity of intra-national trade costs with respect to language differences in Africa. Our proposed estimation strategy does not require bilateral trade data on the sub-national level but recovers the elasticity non-linearly from observed population growth and changes in the African transportation network between 1970 and 2015 using a market access approach. </p>
+            <p>In this paper, we estimate the (deep) elasticity of intra-national trade costs with respect to language differences in Africa. Our proposed estimation strategy does not require bilateral trade data on the sub-national level but recovers the elasticity non-linearly from observed agglomeration changes and changes in the African transportation network between 1970 and 2015 using a market access approach. </p>
         </details>
     </ul>
   </div>
