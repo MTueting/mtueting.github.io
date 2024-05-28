@@ -8,7 +8,7 @@ title: ""
     <!-- About me section -->
     <img align="left" width="40%" height="40%" src="assets/github-img/PHDcon2023WU-56.jpg" style="margin-right: 2em">
     <h2> About me </h2>
-    <p> I am a Ph.D. student in Economics at the <a href="https://www.unisg.ch/en/">University of St.Gallen</a>, Switzerland. My research covers topics in Regional Economics, Development Economics, and International Trade. </p>
+    <p> I am a Ph.D. student in Economics at the <a href="https://www.unisg.ch/en/">University of St.Gallen</a>, Switzerland. My research covers topics in Regional Economics, Environmental Economics, and International Trade with a focus on developing countries. </p>
     <p> From September 23 through June 24, I am visiting <a href="https://sites.google.com/site/adamstoreygard">Adam Storeygard</a> at Tufts. </p>
     <p> I will be on the academic job market in 25/26. </p>
     <p> You can find my CV <a href="https://mtueting.github.io/tueting_CV.pdf">here</a>.</p>
