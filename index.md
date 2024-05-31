@@ -41,7 +41,7 @@ title: ""
     <h2> Teaching Assistance </h2>
     <ul>
     <details>
-        <summary><u> Bachelor (TA) </u></summary>
+        <summary><u> Bachelor </u></summary>
         <ul>
             <li> Economics of Climate Change (2023) </li>
             <li> Public Sector Economics (2022-2023) </li>
@@ -52,7 +52,7 @@ title: ""
         </ul>
     </details>
     <details>
-        <summary><u> Master (TA) </u></summary>
+        <summary><u> Master </u></summary>
         <ul>
             <li> Political Economics (2021-2022) </li>
         </ul>
