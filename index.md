@@ -9,7 +9,7 @@ title: ""
     <img align="left" width="40%" height="40%" src="assets/github-img/PHDcon2023WU-56.jpg" style="margin-right: 2em">
     <h2> About me </h2>
     <p> I am a Ph.D. student in Economics at the <a href="https://www.unisg.ch/en/">University of St.Gallen</a> supervised by <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a>. My research covers topics in Economic Geography, International Trade, and Macroeconomics with a focus on climate change and developing countries. </p>
-    <p> From September 23 through June 24, I am visiting <a href="https://sites.google.com/site/adamstoreygard">Adam Storeygard</a> at Tufts. </p>
+    <p> From September 23 through June 24, I visited <a href="https://sites.google.com/site/adamstoreygard">Adam Storeygard</a> at Tufts University. </p>
     <p> I will be on the academic job market in 25/26. </p>
     <p> You can find my CV <a href="https://mtueting.github.io/tueting_CV.pdf">here</a>.</p>
     <!--<p> You might also want to have a look at my <a href="https://mtueting.github.io/blog/">Blog</a>, where I occasionally post code examples that might be helpful for other researchers. </p>-->
