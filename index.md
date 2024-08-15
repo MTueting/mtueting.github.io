@@ -27,10 +27,11 @@ title: ""
         </details>
       <p><span style="color:rgb(255,0,0);">News:</span> A descriptive version of our paper is featured in the World Bank's <a href="https://www.worldbank.org/en/publication/wdr2024/brief/world-development-report-2024-background-papers">World Development Report 2024</a>. Stay tuned for updates!</p>
       <li> <b>Transportation Infrastructure and Climate Resilience in Developing Countries.</b> </li>
-      <li> <b>How Large are Language Barriers in Africa?</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
+      <li> <b>How Large are Language Barriers within countries?</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
+      
         <details>
             <summary><u>Abstract.</u></summary>
-            <p>In this paper, we estimate the (deep) elasticity of intra-national trade costs with respect to language differences in Africa. Our proposed estimation strategy does not require bilateral trade data on the sub-national level but recovers the elasticity non-linearly from observed agglomeration changes and changes in the African transportation network between 1970 and 2015 using a market access approach. </p>
+            <p>In this paper, we estimate the (deep) elasticity of intra-national trade costs with respect to language differences. Our proposed estimation strategy does not require bilateral trade data on the sub-national level but recovers the elasticity non-linearly from observed agglomeration changes and changes in the African transportation network between 1970 and 2015 using a market access approach. </p>
         </details>
     </ul>
   </div>
