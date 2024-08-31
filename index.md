@@ -26,8 +26,8 @@ title: ""
             <p>This paper harmonizes individual-level data on labor supply for 54 countries to document how firm size and the skill intensity of employment by firm size vary across countries. First, it finds that the share of employment in large firms in high-income countries is more than three times larger than in low-income countries. Second, it shows that across countries, employees of large firms are more skilled than those of small firms. Third, it documents that lower skill endowments in low-income countries affect employment in firms of different sizes asymmetrically: the skill intensity of employment is much lower in small firms in low-income countries than in high-income countries but only slightly lower in large firms. This evidence suggests that large firms rely particularly strongly on employing high-skill workers so that the low skill endowment of low-income countries limits the size of firms in these countries.</p>
         </details>
       <p><span style="color:rgb(255,0,0);">News:</span> A descriptive version of our paper is featured in the World Bank's <a href="https://www.worldbank.org/en/publication/wdr2024/brief/world-development-report-2024-background-papers">World Development Report 2024</a>. Stay tuned for updates!</p>
-      <li> <b>Transportation Infrastructure and Climate Resilience in Developing Countries.</b> </li>
-      <li> <b>How Large are Language Barriers within Countries?</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
+      <li> <b><span style="color:rgb(255,0,0);">New title of my JMP:</span>Spatial Climate Policies.</b> </li>
+      <li> <b>Estimating Language Barriers within Countries.</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
       <!--
         <details>
             <summary><u>Abstract.</u></summary>
@@ -45,9 +45,10 @@ title: ""
     <details>
         <summary><u> Bachelor </u></summary>
         <ul>
+            <li> Failed States and Nation Building (2024) </li>
             <li> Economics of Climate Change (2023) </li>
-            <li> Public Sector Economics (2022-2023) </li>
-            <li> Development Economics (2020-2022) </li>
+            <li> Public Sector Economics (2022-2023; 2025) </li>
+            <li> Development Economics (2020-2022; 2024) </li>
             <li> Data Handling: Import, Cleaning, and Visualisation (2021-2023) </li>
             <li> Introduction to Macroeconomics (2017-2019) </li>
             <li> Operations Management (2017) </li>
