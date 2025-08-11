@@ -6,7 +6,7 @@ title: ""
 <body>
   <div>
     <!-- About me section -->
-    <img align="left" width="40%" height="40%" src="assets/github-img/PHDcon2023WU-56.jpg" style="margin-right: 2em">
+    <img align="left" width="40%" height="40%" src="assets/github-img/portrait.png" style="margin-right: 2em">
     <h2> About me </h2>
     <p> I am a Ph.D. student in Economics at the <a href="https://www.unisg.ch/en/">University of St.Gallen</a>. My primary advisor is <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a>. My research covers topics in Economic Geography, International Trade, and Macroeconomics with a focus on climate change and developing countries. </p>
     <p> From September 23 through June 24, I visited <a href="https://sites.google.com/site/adamstoreygard">Adam Storeygard</a> at Tufts University. </p>
