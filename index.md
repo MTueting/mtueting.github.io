@@ -74,7 +74,7 @@ more productive firms.</p>
     <details>
         <summary><u> Bachelor </u></summary>
         <ul>
-            <li> Failed States and Nation Building (2024) </li>
+            <li> Failed States and Nation Building (2024-2025) </li>
             <li> Economics of Climate Change (2023) </li>
             <li> Public Sector Economics (2022-2023; 2025) </li>
             <li> Development Economics (2020-2022; 2024-2025) </li>
