@@ -93,7 +93,8 @@ more productive firms.</p>
   </div>
 
 <div style="margin-top:2em; font-size:0.9em; color:gray;">
-  I publish under the name Tueting, the standard transliteration of my German name Tüting.
+  I publish under the name Tueting, the standard transliteration of my German name Tüting (IPA: [ˈtyːtɪŋ]).
 </div>
+
 
 </body>
