@@ -91,4 +91,9 @@ more productive firms.</p>
     </details>
     </ul>
   </div>
+
+<div style="margin-top:2em; font-size:0.9em; color:gray;">
+  In English-language publications, I use Tueting as the transliteration of my German name Tüting.
+</div>
+
 </body>
