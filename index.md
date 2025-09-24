@@ -54,6 +54,7 @@ are a central driver of firm size distribution. Our findings imply that skill ac
 development directly, by increasing productivity, and indirectly, by enabling the expansion of larger,
 more productive firms.</p>
         </details>
+      <p><a href="https://www.dropbox.com/scl/fi/1k0byi7lv2hamxy7y48o5/Skill-Supply-Firm-Size-and-Economic-Development.pdf?rlkey=zwfkmg0t8ekads5qasvwo5h8d&st=bd1s0heq&dl=0">Latest version</a>.</p>
       <p><span style="color:rgb(2, 48, 71);">Coverage:</span> An earlier version was a background paper for the World Bank's 2024 <a href="https://www.worldbank.org/en/publication/wdr2024/brief/world-development-report-2024-background-papers">World Development Report</a>.</p>
       <li> <b>Infrastructure, language, and the making of a common market</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
               <details>
