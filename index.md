@@ -61,6 +61,7 @@ more productive firms.</p>
             <summary><u>Abstract.</u></summary>
             <p>This paper studies market integration in Switzerland -- a rare success story among countries with bad geography and high ethnolinguistic diversity. We provide an augmented market access measure that accounts for physical and linguistic interregional trade barriers. Using data on rail and road infrastructure as well as administrative data on population and languages, we employ a non-linear estimation strategy to structurally estimate the evolution of transportation costs and language barriers from 1888 to 2000. We document that transportation costs initially decreased due to the extension of the rail network and later because traveling on roads became cheaper. While transportation costs decreased, the elasticity of trade with respect to transportation costs did not change over time. In contrast, the elasticity of trade with respect to language barriers shows a downward trend. We also document that language barriers decrease when individuals learn a new language because they live in an area where another language is spoken, but we find no evidence that compulsory foreign language education reduces language barriers to trade.</p>
         </details>
+      <li> <b>The Economic Geography of Wage Distributions.</b>
       <!--
         <details>
             <summary><u>Abstract.</u></summary>
