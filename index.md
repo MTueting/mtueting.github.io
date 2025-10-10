@@ -33,7 +33,7 @@ title: ""
   </div>
   
   <div>
-    <h2> Work in Progress </h2>
+    <h2> Work in progress </h2>
     <ul>
       <li> <b>Skill Supply, Firm Size, and Economic Development</b>, with <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a> and <a href="https://markus-poschke.research.mcgill.ca/">Markus Poschke</a>. </li>
         <details>
