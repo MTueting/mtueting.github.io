@@ -44,7 +44,7 @@ title: ""
   <div>
     <h2> Work in progress </h2>
     <ul>
-      <li> <b>Skill Supply, Firm Size, and Economic Development</b>, with <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a> and <a href="https://markus-poschke.research.mcgill.ca/">Markus Poschke</a>. </li>
+      <li> <b>Skill Supply, Firm Size, and Economic Development</b>, with <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a> and <a href="https://markus-poschke.research.mcgill.ca/Index.html">Markus Poschke</a>. </li>
         <details>
             <summary><u>Abstract.</u></summary>
             <p>The organization of production varies widely across countries, with firms being substantially
