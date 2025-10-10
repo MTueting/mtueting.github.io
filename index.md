@@ -13,8 +13,7 @@ title: ""
     <p> <b>I will be on the academic job market in 25/26.</b> </p>
     <p>
       You can find my CV <a href="https://mtueting.github.io/tueting_CV.pdf">here</a>.<br>
-      Feel free to get in touch:
-      <a href="mailto:michael.tueting@unisg.ch">michael.tueting@unisg.ch</a>
+      Feel free to get in touch: <a href="mailto:michael.tueting@unisg.ch">michael.tueting@unisg.ch</a>
     </p>
   </div>
    
