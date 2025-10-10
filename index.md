@@ -3,6 +3,15 @@ layout: page
 title: ""
 ---
 
+<style>
+  /* Reduce paragraph spacing inside the About section */
+  div p {
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+  }
+</style>
+
+
 <body>
   <div>
     <!-- About me section -->
