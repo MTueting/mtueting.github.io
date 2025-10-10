@@ -12,7 +12,7 @@ title: ""
 </style>
 
 
-<body>
+
   <div>
     <!-- About me section -->
     <img align="left" width="40%" height="40%" src="assets/github-img/portrait_short.png" style="margin-right: 2em">
@@ -118,4 +118,4 @@ more productive firms.</p>
 </div>
 
 
-</body>
+
