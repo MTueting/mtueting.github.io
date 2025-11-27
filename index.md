@@ -18,9 +18,9 @@ title: ""
     <img align="left" width="40%" height="40%" src="assets/github-img/portrait_short.png" style="margin-right: 2em">
     <h2> About me </h2>
     <div style="margin-bottom: 0.5em;">
-    <p> I am a Ph.D. Candidate in Economics at the <a href="https://www.unisg.ch/en/">University of St.Gallen</a>. My primary advisor is <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a>. My research covers topics in Economic Geography, International Trade, and Macroeconomics with a focus on climate change and developing countries. </p>
+    <p> I recently finished my Ph.D. in Economics at the <a href="https://www.unisg.ch/en/">University of St.Gallen</a>. My primary advisor is <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a>. My research covers topics in International Economics, Environmental Economics, and Macroeconomics with a focus on climate change and developing countries. </p>
     <p> From September 23 through June 24, I visited <a href="https://sites.google.com/site/adamstoreygard">Adam Storeygard</a> at Tufts University. </p>
-    <p> <b>I will be on the academic job market in 25/26.</b> </p>
+    <p> <b>I am on the academic job market!</b> </p>
     <p>
       You can find my CV <a href="https://mtueting.github.io/tueting_CV.pdf">here</a>.<br>
       Feel free to get in touch: <a href="mailto:michael.tueting@unisg.ch">michael.tueting@unisg.ch</a>
