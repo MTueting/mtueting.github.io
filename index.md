@@ -18,13 +18,7 @@ title: ""
     <img align="left" width="40%" height="40%" src="assets/github-img/portrait_short.png" style="margin-right: 2em">
     <h2> About me </h2>
     <div style="margin-bottom: 0.5em;">
-    <p> I recently finished my Ph.D. in Economics at the <a href="https://www.unisg.ch/en/">University of St.Gallen</a>. My primary advisor is <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a>. My research covers topics in International Economics, Environmental Economics, and Macroeconomics with a focus on climate change and developing countries. </p>
-    <p> From September 23 through June 24, I visited <a href="https://sites.google.com/site/adamstoreygard">Adam Storeygard</a> at Tufts University. </p>
-    <p> <b>I am on the academic job market!</b> </p>
-    <p>
-      You can find my CV <a href="https://mtueting.github.io/tueting_CV.pdf">here</a>.<br>
-      Feel free to get in touch: <a href="mailto:michael.tueting@unisg.ch">michael.tueting@unisg.ch</a>
-    </p>
+    <p> I recently finished my Ph.D. in Economics at the <a href="https://www.unisg.ch/en/">University of St.Gallen</a>. My research covers topics in International Economics, Environmental Economics, and Macroeconomics with a focus on climate change and developing countries. </p>
   </div>
    
   <div style="clear:both; margin-bottom: 0.5em;"></div>
@@ -74,10 +68,6 @@ more productive firms.</p>
       <p><a href="https://www.dropbox.com/scl/fi/1k0byi7lv2hamxy7y48o5/Skill-Supply-Firm-Size-and-Economic-Development.pdf?rlkey=zwfkmg0t8ekads5qasvwo5h8d&st=bd1s0heq&dl=0">Latest version</a>.</p>
       <p><span style="color:rgb(2, 48, 71);">Coverage:</span> An earlier version was a background paper for the World Bank's 2024 <a href="https://www.worldbank.org/en/publication/wdr2024/brief/world-development-report-2024-background-papers">World Development Report</a>.</p>
       <li> <b>Infrastructure, language, and the making of a common market</b>, with <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a> and <a href="https://paulschaudt.com/">Paul Schaudt</a>. </li>
-              <details>
-            <summary><u>Abstract.</u></summary>
-             <p style="margin-top:2px; margin-bottom:16px; font-size:0.95em; line-height:1.4;"> This paper studies market integration in Switzerland -- a rare success story among countries with adverse geography and high ethnolinguistic diversity. We provide an augmented market access measure that accounts for physical and linguistic interregional trade barriers. Using data on rail and road infrastructure as well as administrative data on population and languages, we employ a non-linear estimation strategy to structurally estimate the evolution of transportation costs and language barriers from 1888 to 2000. We document that transportation costs initially decreased due to the extension of the rail network and later because traveling on roads became cheaper. While transportation costs decreased, the elasticity of trade with respect to transportation costs did not change over time. In contrast, the elasticity of trade with respect to language barriers shows a downward trend. We also document that language barriers decrease when individuals learn a new language because they live in an area where another language is spoken, but we find no evidence that compulsory foreign language education reduces language barriers to trade.</p>
-        </details>
       <li> <b>The Economic Geography of Wage Distributions.</b> </li>
       <!--
         <details>
