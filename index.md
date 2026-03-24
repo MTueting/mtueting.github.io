@@ -4,98 +4,183 @@ title: ""
 ---
 
 <style>
-  div p {
-    margin-top: 0.35em;
-    margin-bottom: 0.35em;
+  p {
+    margin-top: 0.3em;
+    margin-bottom: 0.45em;
   }
 
-  .news-list li,
-  .teaching-list li {
+  .profile-image {
+    float: left;
+    width: 34%;
+    margin-right: 2em;
+    margin-bottom: 0.8em;
+  }
+
+  .top-links {
+    margin-top: 0.35em;
+    margin-bottom: 0.35em;
+    font-size: 0.96em;
+  }
+
+  .top-links a {
+    text-decoration: none;
+  }
+
+  .section-break {
+    clear: both;
+    border: 0;
+    border-top: 1px solid #e5e5e5;
+    margin: 1.2em 0 1em 0;
+  }
+
+  h2 {
+    margin-top: 0.2em;
     margin-bottom: 0.5em;
   }
 
+  h3 {
+    margin-top: 0.8em;
+    margin-bottom: 0.35em;
+    font-size: 1.02em;
+    font-weight: 600;
+  }
+
+  ul {
+    margin-top: 0.35em;
+    margin-bottom: 0.6em;
+    padding-left: 1.2em;
+  }
+
+  .news-list li,
+  .paper-list li {
+    margin-bottom: 0.45em;
+  }
+
+  .paper-list {
+    margin-top: 0.2em;
+  }
+
   .paper-entry {
-    margin-bottom: 1.4em;
+    margin-bottom: 0.75em;
+  }
+
+  .paper-title {
+    font-weight: 600;
   }
 
   .paper-meta {
-    margin-top: 0.15em;
-    font-size: 0.95em;
+    margin-top: 0.08em;
+    font-size: 0.93em;
+    color: #555;
+  }
+
+  .paper-meta a {
+    color: inherit;
+  }
+
+  details {
+    margin-top: 0.2em;
+  }
+
+  summary {
+    cursor: pointer;
+    font-size: 0.94em;
   }
 
   .paper-abstract {
     margin-top: 0.35em;
-    margin-bottom: 0.9em;
-    font-size: 0.95em;
-    line-height: 1.45;
+    margin-bottom: 0.2em;
+    font-size: 0.94em;
+    line-height: 1.42;
+    color: #222;
   }
 
-  .section-spacer {
-    clear: both;
-    margin-bottom: 1.25em;
+  .coverage-note {
+    margin-top: 0.25em;
+    font-size: 0.93em;
+    color: #555;
   }
 
-  .subsection-title {
-    margin-top: 1.2em;
-    margin-bottom: 0.6em;
+  .name-note {
+    margin-top: 1.5em;
+    font-size: 0.9em;
+    color: #777;
+  }
+
+  @media (max-width: 800px) {
+    .profile-image {
+      float: none;
+      display: block;
+      width: 60%;
+      max-width: 260px;
+      margin-right: 0;
+      margin-bottom: 1em;
+    }
   }
 </style>
 
 <div>
   <img
-    align="left"
-    width="36%"
+    class="profile-image"
     src="assets/github-img/portrait_short.png"
     alt="Portrait"
-    style="margin-right: 2em; margin-bottom: 1em;"
   />
 
   <h2>About me</h2>
 
   <p>
-  I received my Ph.D. in Economics from the
-  <a href="https://www.unisg.ch/en/">University of St.Gallen</a>
-  in February 2026. I am currently a short-term Postdoctoral Researcher at the
-  University of St.Gallen and will join
-  <a href="https://www.liser.lu/crossing-borders">LISER’s Crossing Borders programme</a>
-  as a Postdoctoral Researcher in July 2026.
+    I received my Ph.D. in Economics from the
+    <a href="https://www.unisg.ch/en/">University of St.Gallen</a>
+    in February 2026. I am currently a short-term Postdoctoral Researcher at the
+    University of St.Gallen and will join
+    <a href="https://www.liser.lu/crossing-borders">LISER’s Crossing Borders programme</a>
+    as a Postdoctoral Researcher in July 2026.
   </p>
 
   <p>
-  My research focuses on questions in Labor Economics, International Economics, and Environmental Economics, which I study using quantitative spatial and macroeconomic models.
+    I work on questions in Labor Economics, International Economics, and Environmental Economics
+    using quantitative spatial and macroeconomic models.
   </p>
+
+  <!-- Optional top links
+  <p class="top-links">
+    <a href="CV.pdf">CV</a> |
+    <a href="mailto:your.email@domain.com">Email</a> |
+    <a href="https://scholar.google.com/">Google Scholar</a>
+  </p>
+  -->
 </div>
 
-<div class="section-spacer"></div>
+<hr class="section-break">
 
 <div>
   <h2>News</h2>
   <ul class="news-list">
     <li>
-      <strong>March 2026:</strong> I have accepted a Postdoctoral Researcher position at
-      <a href="https://www.liser.lu/crossing-borders">LISER’s Crossing Borders programme</a> headed by <a href="https://sites.google.com/site/andregroeger">Andre Groeger</a>.
+      <strong>March 2026:</strong> Accepted a Postdoctoral Researcher position at
+      <a href="https://www.liser.lu/crossing-borders">LISER’s Crossing Borders programme</a>.
     </li>
     <li>
-      <strong>February 2026:</strong> Awarded Ph.D. in Economics (Dr. oec.) with
+      <strong>February 2026:</strong> Awarded Ph.D. in Economics (<em>Dr. oec.</em>) with
       <em>summa cum laude</em>.
     </li>
   </ul>
 </div>
 
+<hr class="section-break">
+
 <div>
   <h2>Research</h2>
 
-  <h3 class="subsection-title">Working papers</h3>
-
+  <h3>Working papers</h3>
   <ul class="paper-list">
-
     <li class="paper-entry">
-      <strong>Climate Change, Income Inequality, and Migration in a Spatial Economy</strong>
+      <span class="paper-title">Climate Change, Income Inequality, and Migration in a Spatial Economy</span>
       <div class="paper-meta">
-        <a href="https://mtueting.github.io/job_market_paper/jmp_tueting.pdf">(Paper, PDF)</a>
+        <a href="https://mtueting.github.io/job_market_paper/jmp_tueting.pdf">Paper (PDF)</a>
       </div>
       <details>
-        <summary><u>Abstract</u></summary>
+        <summary>Abstract</summary>
         <p class="paper-abstract">
           Negative local labor market shocks create strong incentives to migrate,
           yet low-income households often remain in place. This paper studies how
@@ -124,7 +209,7 @@ title: ""
     </li>
 
     <li class="paper-entry">
-      <strong>Skill Supply, Firm Size, and Economic Development</strong>,
+      <span class="paper-title">Skill Supply, Firm Size, and Economic Development</span>,
       with
       <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a>
       and
@@ -133,7 +218,7 @@ title: ""
         <a href="https://www.dropbox.com/scl/fi/1k0byi7lv2hamxy7y48o5/Skill-Supply-Firm-Size-and-Economic-Development.pdf?rlkey=zwfkmg0t8ekads5qasvwo5h8d&st=bd1s0heq&dl=0">Latest version</a>
       </div>
       <details>
-        <summary><u>Abstract</u></summary>
+        <summary>Abstract</summary>
         <p class="paper-abstract">
           The organization of production varies widely across countries, with firms being
           substantially smaller in low-income countries. At the same time, educational
@@ -163,40 +248,37 @@ title: ""
           more productive firms.
         </p>
       </details>
-      <p class="paper-meta">
-        <span style="color:rgb(2, 48, 71);">Coverage:</span>
-        An earlier version was a background paper for the World Bank’s 2024
+      <div class="coverage-note">
+        Earlier version: background paper for the World Bank’s 2024
         <a href="https://www.worldbank.org/en/publication/wdr2024/brief/world-development-report-2024-background-papers">World Development Report</a>.
-      </p>
+      </div>
     </li>
-
   </ul>
 
-  <h3 class="subsection-title">Work in progress</h3>
-
+  <h3>Work in progress</h3>
   <ul class="paper-list">
     <li class="paper-entry">
-      <strong>Language, Work, and the Making of a Common Market</strong>,
+      <span class="paper-title">Language, Work, and the Making of a Common Market</span>,
       with
       <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a>
       and
       <a href="https://paulschaudt.com/">Paul Schaudt</a>.
     </li>
-
     <li class="paper-entry">
-      <strong>The Economic Geography of Wage Distributions</strong>.
+      <span class="paper-title">The Economic Geography of Wage Distributions</span>.
     </li>
   </ul>
 </div>
 
-
 <!--
+<hr class="section-break">
+
 <div>
   <h2>Teaching</h2>
 
   <details>
-    <summary><u>Bachelor</u></summary>
-    <ul class="teaching-list">
+    <summary>Bachelor</summary>
+    <ul>
       <li>Economics of Climate Change (2023)</li>
       <li>Public Sector Economics (2022–2023; 2025)</li>
       <li>Development Economics (2020–2022; 2024–2025)</li>
@@ -207,8 +289,8 @@ title: ""
   </details>
 
   <details>
-    <summary><u>Master</u></summary>
-    <ul class="teaching-list">
+    <summary>Master</summary>
+    <ul>
       <li>Political Economics (2021–2022)</li>
       <li>Failed States and Nation Building (2024–2025)</li>
     </ul>
@@ -216,7 +298,7 @@ title: ""
 </div>
 -->
 
-<div style="margin-top:2em; font-size:0.9em; color:gray;">
+<div class="name-note">
   I publish under the name Tueting, the standard transliteration of my German name
   Tüting (IPA: [ˈtyːtɪŋ]).
 </div>
