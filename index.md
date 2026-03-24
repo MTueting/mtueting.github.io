@@ -62,9 +62,7 @@ title: ""
   </p>
 
   <p>
-    My research lies at the intersection of International Economics,
-    Environmental Economics, and Macroeconomics, with a particular focus on
-    climate change, migration, and developing countries.
+  My research focuses on questions in Labor Economics, International Economics, and Environmental Economics, which I study using quantitative spatial and macroeconomic models.
   </p>
 </div>
 
