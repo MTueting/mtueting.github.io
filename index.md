@@ -171,7 +171,7 @@ title: ""
   <h3 class="subsection-title">Work in progress</h3>
 
   <div class="paper-entry">
-    <strong>Infrastructure, Language, and the Making of a Common Market</strong>,
+    <strong>Language, Work, and the Making of a Common Market</strong>,
     with
     <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a>
     and
