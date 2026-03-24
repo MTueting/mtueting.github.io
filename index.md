@@ -73,7 +73,7 @@ title: ""
   <ul class="news-list">
     <li>
       <strong>March 2026:</strong> I have accepted a Postdoctoral Researcher position at
-      <a href="https://www.liser.lu/crossing-borders">LISER’s Crossing Borders programme</a>.
+      <a href="https://www.liser.lu/crossing-borders">LISER’s Crossing Borders programme</a> headed by <a href="https://sites.google.com/site/andregroeger">Andre Groeger</a>.
     </li>
     <li>
       <strong>February 2026:</strong> Awarded Ph.D. in Economics (Dr. oec.) with
