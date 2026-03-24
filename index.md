@@ -10,9 +10,9 @@ title: ""
   }
 
   .profile-image {
-    float: left;
-    width: 34%;
-    margin-right: 2em;
+    float: right;
+    width: 32%;
+    margin-left: 2em;
     margin-bottom: 0.8em;
   }
 
@@ -108,13 +108,12 @@ title: ""
   }
 
   @media (max-width: 800px) {
-    .profile-image {
-      float: none;
-      display: block;
-      width: 60%;
-      max-width: 260px;
-      margin-right: 0;
-      margin-bottom: 1em;
+  .profile-image {
+    float: none;
+    display: block;
+    width: 60%;
+    max-width: 260px;
+    margin: 0 auto 1em auto;
     }
   }
 </style>
