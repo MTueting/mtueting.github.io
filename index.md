@@ -121,7 +121,7 @@ title: ""
 <div>
   <img
     class="profile-image"
-    src="assets/github-img/portrait_short.png"
+    src="assets/github-img/Photo_cropped.jpg"
     alt="Portrait"
   />
 
