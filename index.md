@@ -156,13 +156,13 @@ title: ""
   <h2>News</h2>
   <ul class="news-list">
     <li>
-      <strong>March 2026:</strong> Accepted a Postdoctoral Researcher position at
-      <a href="https://www.liser.lu/crossing-borders">LISER’s Crossing Borders programme</a>.
-    </li>
-    <li>
-      <strong>February 2026:</strong> Awarded Ph.D. in Economics (<em>Dr. oec.</em>) with
-      <em>summa cum laude</em>.
-    </li>
+  <strong>March 2026:</strong> I accepted a Postdoctoral Researcher position at
+  <a href="https://www.liser.lu/crossing-borders">LISER’s Crossing Borders programme</a>, starting July 2026.
+  </li>
+  <li>
+    <strong>February 2026:</strong> I was awarded a Ph.D. in Economics (<em>Dr. oec.</em>) with
+    <em>summa cum laude</em>.
+  </li>
   </ul>
 </div>
 
