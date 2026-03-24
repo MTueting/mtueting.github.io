@@ -160,8 +160,8 @@ title: ""
   <a href="https://www.liser.lu/crossing-borders">LISER’s Crossing Borders programme</a>, starting July 2026.
   </li>
   <li>
-    <strong>February 2026:</strong> I was awarded a Ph.D. in Economics (<em>Dr. oec.</em>) with
-    <em>summa cum laude</em>.
+  <strong>February 2026:</strong> Awarded a Ph.D. in Economics (<em>Dr. oec.</em>) with
+        <em>summa cum laude</em>.
   </li>
   </ul>
 </div>
