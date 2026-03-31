@@ -214,7 +214,7 @@ title: ""
       and
       <a href="https://markus-poschke.research.mcgill.ca/Index.html">Markus Poschke</a>.
       <div class="paper-meta">
-        <a href="https://www.dropbox.com/scl/fi/1k0byi7lv2hamxy7y48o5/Skill-Supply-Firm-Size-and-Economic-Development.pdf?rlkey=zwfkmg0t8ekads5qasvwo5h8d&st=bd1s0heq&dl=0">Latest version</a>
+        <a href="https://www.dropbox.com/scl/fi/1k0byi7lv2hamxy7y48o5/Skill-Supply-Firm-Size-and-Economic-Development.pdf?rlkey=zwfkmg0t8ekads5qasvwo5h8d&st=8rxvl2ki&dl=0">Latest version</a>
       </div>
       <details>
         <summary>Abstract</summary>
