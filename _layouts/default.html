@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<!--
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
+-->
+<title>{% if page.title %}{{ page.title | escape }} — {% endif %}{{ site.title | escape }}</title>
 <head> <link rel="shortcut icon" type="image/png" href="favicon-32x32.png"> </head>
 <meta charset="{{ site.encoding }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
