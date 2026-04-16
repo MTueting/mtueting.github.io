@@ -259,9 +259,11 @@ title: ""
       and
       <a href="https://paulschaudt.com/">Paul Schaudt</a>.
     </li>
+    <!--
     <li class="paper-entry">
       <span class="paper-title">The Economic Geography of Wage Distributions</span>.
     </li>
+    -->
   </ul>
 </div>
 
