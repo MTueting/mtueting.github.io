@@ -128,12 +128,13 @@ title: ""
   <h2>About me</h2>
 
   <p>
-    I received my Ph.D. in Economics from the
-    <a href="https://www.unisg.ch/en/">University of St.Gallen</a>
-    in February 2026. I am currently a short-term Postdoctoral Researcher at the
-    University of St.Gallen and will join
-    <a href="https://www.liser.lu/crossing-borders">LISER’s Crossing Borders programme</a>
-    as a Postdoctoral Researcher in July 2026.
+    I am a Postdoctoral Researcher at the
+    <a href="https://www.unisg.ch/en/">University of St.Gallen</a>,
+    joining <a href="https://www.liser.lu/crossing-borders">LISER</a>'s
+    Crossing Borders programme in July 2026. I received my Ph.D. in Economics
+    from the University of St.Gallen in February 2026. My research uses
+    quantitative spatial models to study how trade and environmental factors
+    reshape where people work and live.
   </p>
 
   <p>
