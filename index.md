@@ -137,11 +137,6 @@ title: ""
     reshape where people work and live.
   </p>
 
-  <p>
-    I work on questions in Labor Economics, International Economics, and Environmental Economics
-    using quantitative spatial and macroeconomic models.
-  </p>
-
   <!-- Optional top links
   <p class="top-links">
     <a href="CV.pdf">CV</a> |
