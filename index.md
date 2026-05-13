@@ -152,6 +152,9 @@ title: ""
   <h2>News</h2>
   <ul class="news-list">
     <li>
+  <strong>May 2026:</strong> I have won the prize for the best dissertation in Economics in 2026 by the University of St.Gallen
+    </li>
+    <li>
   <strong>March 2026:</strong> I accepted a Postdoctoral Researcher position at
   <a href="https://www.liser.lu/crossing-borders">LISER’s Crossing Borders programme</a>, starting July 2026.
   </li>
