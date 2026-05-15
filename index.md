@@ -4,33 +4,53 @@ title: ""
 ---
 
 <style>
+  body {
+    line-height: 1.55;
+  }
+
+  .wrapper {
+    max-width: 850px;
+    margin: 0 auto;
+  }
+
   p {
     margin-top: 0.3em;
     margin-bottom: 0.45em;
   }
 
+  h1 {
+    margin-bottom: 0.15em;
+    font-size: 2em;
+    font-weight: 700;
+  }
+
+  .subtitle {
+    margin-top: 0;
+    margin-bottom: 1em;
+    color: #555;
+    font-size: 1.02em;
+  }
+
   .profile-image {
     float: right;
-    width: 32%;
+    width: 28%;
     margin-left: 2em;
     margin-bottom: 0.8em;
   }
 
   .top-links {
-    margin-top: 0.35em;
-    margin-bottom: 0.35em;
-    font-size: 0.96em;
+    margin-top: 0.6em;
+    margin-bottom: 1.1em;
+    font-size: 0.95em;
   }
 
   .top-links a {
     text-decoration: none;
   }
 
-  .section-break {
-    clear: both;
-    border: 0;
-    border-top: 1px solid #e5e5e5;
-    margin: 1.2em 0 1em 0;
+  a {
+    text-decoration-thickness: 0.06em;
+    text-underline-offset: 0.12em;
   }
 
   h2 {
@@ -53,7 +73,8 @@ title: ""
 
   .news-list li,
   .paper-list li {
-    margin-bottom: 0.45em;
+    margin-bottom: 0.7em;
+    line-height: 1.4;
   }
 
   .paper-list {
@@ -61,11 +82,13 @@ title: ""
   }
 
   .paper-entry {
-    margin-bottom: 0.75em;
+    margin-bottom: 1.3em;
   }
 
   .paper-title {
     font-weight: 600;
+    display: inline-block;
+    margin-bottom: 0.15em;
   }
 
   .paper-meta {
@@ -79,7 +102,8 @@ title: ""
   }
 
   details {
-    margin-top: 0.2em;
+    margin-top: 0.25em;
+    padding-left: 0.15em;
   }
 
   summary {
@@ -90,9 +114,9 @@ title: ""
   .paper-abstract {
     margin-top: 0.35em;
     margin-bottom: 0.2em;
-    font-size: 0.94em;
-    line-height: 1.42;
-    color: #222;
+    font-size: 0.92em;
+    line-height: 1.5;
+    color: #333;
   }
 
   .coverage-note {
@@ -107,74 +131,98 @@ title: ""
     color: #777;
   }
 
+  .section-break {
+    border: 0;
+    margin: 2em 0 1.2em 0;
+  }
+
   @media (max-width: 800px) {
-  .profile-image {
-    float: none;
-    display: block;
-    width: 60%;
-    max-width: 260px;
-    margin: 0 auto 1em auto;
+    .profile-image {
+      float: none;
+      display: block;
+      width: 60%;
+      max-width: 260px;
+      margin: 0 auto 1em auto;
     }
   }
 </style>
 
-<div>
+<div class="wrapper">
+
   <img
     class="profile-image"
     src="assets/github-img/Photo_cropped.jpg"
     alt="Portrait"
   />
 
-  <h2>About me</h2>
-  
-<p>
-  I am a Postdoctoral Researcher at the <a href="https://www.unisg.ch/en/">University of St. Gallen</a> and will join <a href="https://www.liser.lu/crossing-borders">LISER</a> in July 2026. 
-</p>
+  <h1>Michael Tueting</h1>
 
-<p>
-  My research studies how migration and the organization of production are jointly shaped by spatial, trade, and environmental forces.
-</p>
+  <p class="subtitle">
+    Postdoctoral Researcher in Economics<br>
+    University of St. Gallen
+  </p>
 
-  <!-- Optional top links
+  <p>
+    I am a Postdoctoral Researcher at the
+    <a href="https://www.unisg.ch/en/">University of St. Gallen</a>
+    and will join
+    <a href="https://www.liser.lu/crossing-borders">LISER</a>
+    in July 2026.
+  </p>
+
+  <p>
+    My research studies migration, trade, and climate change in spatial economies.
+  </p>
+
   <p class="top-links">
-    <a href="CV.pdf">CV</a> |
-    <a href="mailto:your.email@domain.com">Email</a> |
+    <a href="CV.pdf">CV</a> ·
+    <a href="mailto:your.email@domain.com">Email</a> ·
     <a href="https://scholar.google.com/">Google Scholar</a>
   </p>
-  -->
+
 </div>
 
 <hr class="section-break">
 
-<div>
+<div class="wrapper">
+
   <h2>News</h2>
   <ul class="news-list">
     <li>
-  <strong>May 2026:</strong> I have won the 2026 Best Dissertation Prize in Economics awarded by the University of St. Gallen.
+      <strong>May 2026:</strong> I have won the 2026 Best Dissertation Prize in Economics awarded by the University of St. Gallen.
     </li>
     <li>
-  <strong>March 2026:</strong> I accepted a Postdoctoral Researcher position at
-  <a href="https://www.liser.lu/crossing-borders">LISER’s Crossing Borders programme</a>, starting July 2026.
-  </li>
-  <li>
-  <strong>February 2026:</strong> Awarded a Ph.D. in Economics (<em>Dr. oec.</em>) with
-        <em>summa cum laude</em>.
-  </li>
+      <strong>March 2026:</strong> I accepted a Postdoctoral Researcher position at
+      <a href="https://www.liser.lu/crossing-borders">LISER’s Crossing Borders programme</a>,
+      starting July 2026.
+    </li>
+    <li>
+      <strong>February 2026:</strong> Awarded a Ph.D. in Economics (<em>Dr. oec.</em>) with
+      <em>summa cum laude</em>.
+    </li>
   </ul>
+
 </div>
 
 <hr class="section-break">
 
-<div>
+<div class="wrapper">
+
   <h2>Research</h2>
 
   <h3>Working papers</h3>
+
   <ul class="paper-list">
+
     <li class="paper-entry">
-      <span class="paper-title">Climate Change, Income Inequality, and Migration in a Spatial Economy</span>
+      <span class="paper-title">
+        Climate Change, Income Inequality, and Migration in a Spatial Economy
+      </span>
+
       <div class="paper-meta">
         <a href="https://mtueting.github.io/job_market_paper/jmp_tueting.pdf">Paper (PDF)</a>
       </div>
+
       <details>
         <summary>Abstract</summary>
         <p class="paper-abstract">
@@ -205,14 +253,20 @@ title: ""
     </li>
 
     <li class="paper-entry">
-      <span class="paper-title">Skill Supply, Firm Size, and Economic Development</span>,
+      <span class="paper-title">
+        Skill Supply, Firm Size, and Economic Development
+      </span>,
       with
       <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a>
       and
       <a href="https://markus-poschke.research.mcgill.ca/Index.html">Markus Poschke</a>.
+
       <div class="paper-meta">
-        <a href="https://www.dropbox.com/scl/fi/1k0byi7lv2hamxy7y48o5/Skill-Supply-Firm-Size-and-Economic-Development.pdf?rlkey=zwfkmg0t8ekads5qasvwo5h8d&st=8rxvl2ki&dl=0">Latest version</a>
+        <a href="https://www.dropbox.com/scl/fi/1k0byi7lv2hamxy7y48o5/Skill-Supply-Firm-Size-and-Economic-Development.pdf?rlkey=zwfkmg0t8ekads5qasvwo5h8d&st=8rxvl2ki&dl=0">
+          Latest version
+        </a>
       </div>
+
       <details>
         <summary>Abstract</summary>
         <p class="paper-abstract">
@@ -228,75 +282,55 @@ title: ""
           small firms in high-income countries are nearly as skill-intensive as large firms,
           but small firms in low-income countries employ far fewer skilled workers than their
           larger counterparts. Fourth, the skill gap between small and large firms is narrow
-          when the skill premium is low, but it widens substantially when the premium is high.
-          These findings suggest that small firms can easily substitute high-skill for low-skill
-          workers when skilled workers are scarce and expensive, whereas large firms are less
-          flexible. As a result, lower availability of high-skilled workers restricts the
-          prevalence of large firms in low-income economies. We then use a span-of-control model
-          with worker skill heterogeneity and two technologies (large- and small-scale) to analyze
-          the impact of skill endowments on firm size distribution and economic development.
-          Calibrated to U.S. data and varying only skill endowments to match those of low-,
-          middle-, and high-income countries, the model replicates observed employment patterns
-          by firm size and the skill intensity of firms across different stages of development.
-          We interpret this as evidence that differences in skill endowments are a central driver
-          of firm size distribution. Our findings imply that skill accumulation promotes development
-          directly, by increasing productivity, and indirectly, by enabling the expansion of larger,
-          more productive firms.
+          when the skill premium is low, but it widens substantially when the skill premium
+          is high. These findings suggest that small firms can easily substitute high-skill
+          for low-skill workers when skilled workers are scarce and expensive, whereas large
+          firms are less flexible. As a result, lower availability of high-skilled workers
+          restricts the prevalence of large firms in low-income economies. We then use a
+          span-of-control model with worker skill heterogeneity and two technologies
+          (large- and small-scale) to analyze the impact of skill endowments on firm size
+          distribution and economic development. Calibrated to U.S. data and varying only
+          skill endowments to match those of low-, middle-, and high-income countries, the
+          model replicates observed employment patterns by firm size and the skill intensity
+          of firms across different stages of development. We interpret this as evidence that
+          differences in skill endowments are a central driver of firm size distribution. Our
+          findings imply that skill accumulation promotes development directly, by increasing
+          productivity, and indirectly, by enabling the expansion of larger, more productive
+          firms.
         </p>
       </details>
+
       <div class="coverage-note">
         Earlier version: background paper for the World Bank’s 2024
-        <a href="https://www.worldbank.org/en/publication/wdr2024/brief/world-development-report-2024-background-papers">World Development Report</a>.
+        <a href="https://www.worldbank.org/en/publication/wdr2024/brief/world-development-report-2024-background-papers">
+          World Development Report
+        </a>.
       </div>
     </li>
+
   </ul>
 
   <h3>Work in progress</h3>
+
   <ul class="paper-list">
     <li class="paper-entry">
-      <span class="paper-title">Language, Work, and the Making of a Common Market</span>,
+      <span class="paper-title">
+        Language, Work, and the Making of a Common Market
+      </span>,
       with
       <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a>
       and
       <a href="https://paulschaudt.com/">Paul Schaudt</a>.
     </li>
-    <!--
-    <li class="paper-entry">
-      <span class="paper-title">The Economic Geography of Wage Distributions</span>.
-    </li>
-    -->
   </ul>
+
 </div>
 
-<!--
-<hr class="section-break">
+<div class="wrapper">
 
-<div>
-  <h2>Teaching</h2>
+  <p class="name-note">
+    I publish under the name Tueting, the standard transliteration of my German name
+    Tüting (IPA: [ˈtyːtɪŋ]).
+  </p>
 
-  <details>
-    <summary>Bachelor</summary>
-    <ul>
-      <li>Economics of Climate Change (2023)</li>
-      <li>Public Sector Economics (2022–2023; 2025)</li>
-      <li>Development Economics (2020–2022; 2024–2025)</li>
-      <li>Data Handling: Import, Cleaning, and Visualisation (2021–2023)</li>
-      <li>Introduction to Macroeconomics (2017–2019)</li>
-      <li>Operations Management (2017)</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary>Master</summary>
-    <ul>
-      <li>Political Economics (2021–2022)</li>
-      <li>Failed States and Nation Building (2024–2025)</li>
-    </ul>
-  </details>
-</div>
--->
-
-<div class="name-note">
-  I publish under the name Tueting, the standard transliteration of my German name
-  Tüting (IPA: [ˈtyːtɪŋ]).
 </div>
