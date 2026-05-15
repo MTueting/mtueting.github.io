@@ -177,7 +177,7 @@ title: ""
   <p class="top-links">
     <a href="CV.pdf">CV</a> ·
     <a href="mailto:michael.tueting@unisg.ch">Email</a> ·
-    <a href="[https://scholar.google.com/](https://scholar.google.com/citations?user=Gl40BNEAAAAJ&hl=en&oi=ao)">Google Scholar</a>
+    <a href="https://scholar.google.com/citations?user=Gl40BNEAAAAJ&hl=en&oi=ao">Google Scholar</a>
   </p>
 
 </div>
