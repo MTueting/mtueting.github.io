@@ -171,7 +171,7 @@ title: ""
   </p>
 
   <p>
-    My research studies migration, trade, and climate change in spatial economies.
+    My research studies how migration and the organization of production are jointly shaped by spatial, trade, and environmental forces.
   </p>
 
   <p class="top-links">
