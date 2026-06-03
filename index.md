@@ -216,10 +216,11 @@ title: ""
 
   <ul class="paper-list">
 
-    <li class="paper-entry">
-      <span class="paper-title">
-        Climate Change, Income Inequality, and Migration in a Spatial Economy (New version coming soon!)
-      </span>
+  <li class="paper-entry">
+    <span class="paper-title">
+      Climate Change, Income Inequality, and Migration in a Spatial Economy
+      <span class="coming-soon">(New version coming soon!)</span>
+    </span>
 
       <div class="paper-meta">
         <a href="https://mtueting.github.io/job_market_paper/jmp_tueting.pdf">Paper (PDF)</a>
@@ -256,7 +257,7 @@ title: ""
 
     <li class="paper-entry">
       <span class="paper-title">
-        Skill Supply, Firm Size, and Economic Development (New version coming soon!)
+        Skill Supply, Firm Size, and Economic Development <span class="coming-soon">(New version coming soon!)</span>
       </span>,
       with
       <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a>
