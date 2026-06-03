@@ -189,6 +189,8 @@ title: ""
   <h2>News</h2>
   <ul class="news-list">
     <li>
+      <strong>June 2026:</strong> My job market paper has won the 2026 Swiss Young Economist Award (joint first place with <a href="https://www.alejandrarodriguezmorales.com/">Alejandra Rodríguez-Morales</a>)
+    <li>
       <strong>May 2026:</strong> I have won the 2026 Best Dissertation Prize in Economics awarded by the University of St. Gallen.
     </li>
     <li>
@@ -216,7 +218,7 @@ title: ""
 
     <li class="paper-entry">
       <span class="paper-title">
-        Climate Change, Income Inequality, and Migration in a Spatial Economy
+        Climate Change, Income Inequality, and Migration in a Spatial Economy (New version coming soon!)
       </span>
 
       <div class="paper-meta">
@@ -254,7 +256,7 @@ title: ""
 
     <li class="paper-entry">
       <span class="paper-title">
-        Skill Supply, Firm Size, and Economic Development
+        Skill Supply, Firm Size, and Economic Development (New version coming soon!)
       </span>,
       with
       <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a>
