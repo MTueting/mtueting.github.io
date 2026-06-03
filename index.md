@@ -189,7 +189,7 @@ title: ""
   <h2>News</h2>
   <ul class="news-list">
     <li>
-      <strong>June 2026:</strong> My job market paper has won the 2026 Swiss Young Economist Award (joint first place with <a href="https://www.alejandrarodriguezmorales.com/">Alejandra Rodríguez-Morales</a>)
+      <strong>June 2026:</strong> My job market paper won the 2026 Swiss Young Economist Award (joint first place with <a href="https://www.alejandrarodriguezmorales.com/">Alejandra Rodríguez-Morales</a>).
     <li>
       <strong>May 2026:</strong> I have won the 2026 Best Dissertation Prize in Economics awarded by the University of St. Gallen.
     </li>
