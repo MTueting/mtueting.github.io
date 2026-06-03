@@ -136,6 +136,13 @@ title: ""
     margin: 2em 0 1.2em 0;
   }
 
+  /* NEW: styling for "coming soon" label */
+  .coming-soon {
+    color: red;
+    font-weight: normal;
+    font-size: 0.95em;
+  }
+
   @media (max-width: 800px) {
     .profile-image {
       float: none;
@@ -226,11 +233,11 @@ title: ""
 
   <ul class="paper-list">
 
-  <li class="paper-entry">
-    <span class="paper-title">
-      Climate Change, Income Inequality, and Migration in a Spatial Economy
-      <span class="coming-soon">(New version coming soon!)</span>
-    </span>
+    <li class="paper-entry">
+      <span class="paper-title">
+        Climate Change, Income Inequality, and Migration in a Spatial Economy
+        <span class="coming-soon">(New version coming soon!)</span>
+      </span>
 
       <div class="paper-meta">
         <a href="https://mtueting.github.io/job_market_paper/jmp_tueting.pdf">Paper (PDF)</a>
