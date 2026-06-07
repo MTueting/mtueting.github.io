@@ -196,16 +196,16 @@ title: ""
   <h2>News</h2>
 
   <ul class="news-list">
-    <li>
-      <strong>June 2026:</strong>
-      My job market paper won the 2026 Swiss Young Economist Award (joint first place with
-      <a href="https://www.alejandrarodriguezmorales.com/">Alejandra Rodríguez-Morales</a>).
-    </li>
+  <li>
+    <strong>June 2026:</strong>
+    My job market paper won the <a href="https://www.sses.swiss/awards/young-economist/">2026 Swiss Young Economist Award</a> (joint first place with
+    <a href="https://www.alejandrarodriguezmorales.com/">Alejandra Rodríguez-Morales</a>), awarded by the Swiss Society of Economics and Statistics (SSES).
+  </li>
 
-    <li>
-      <strong>May 2026:</strong>
-      I have won the 2026 Best Dissertation Prize in Economics awarded by the University of St. Gallen.
-    </li>
+  <li>
+    <strong>May 2026:</strong>
+    My dissertation received the 2026 Best Dissertation Prize in Economics awarded by the University of St. Gallen.
+  </li>
 
     <li>
       <strong>March 2026:</strong>
