@@ -166,24 +166,21 @@ title: ""
 
   <p class="subtitle">
     Postdoctoral Researcher in Economics<br>
-    University of St. Gallen
+    Luxembourg Institute of Socio-Economic Research (LISER)
   </p>
 
   <p>
-    I am a Postdoctoral Researcher at the
-    <a href="https://www.unisg.ch/en/">University of St. Gallen</a>
-    and will join
-    <a href="https://www.liser.lu/crossing-borders">LISER</a>
-    in July 2026.
-  </p>
-
-  <p>
+    I am a Postdoctoral Researcher at the Luxembourg Institute of Socio-Economic Research (<a href="https://www.liser.lu/crossing-borders">LISER</a>). 
     My research studies how migration and the organization of production are jointly shaped by spatial, trade, and environmental forces.
+  </p>
+
+  <p>
+    I am also a Research Associate at the Swiss Institute for International Economics and Applied Economic Research (SIAW-HSG) at the University of St. Gallen, where I completed my PhD in 2025.
   </p>
 
   <p class="top-links">
     <a href="https://mtueting.github.io/tueting_CV.pdf">CV</a> ·
-    <a href="mailto:michael.tueting@unisg.ch">Email</a> ·
+    <a href="mailto:michael.tueting@liser.lu">Email</a> ·
     <a href="https://scholar.google.com/citations?user=Gl40BNEAAAAJ&hl=en&oi=ao">Google Scholar</a>
   </p>
 
@@ -198,8 +195,7 @@ title: ""
   <ul class="news-list">
   <li>
     <strong>June 2026:</strong>
-    My job market paper won the <a href="https://www.sses.swiss/awards/young-economist/">2026 Swiss Young Economist Award</a> (joint first place with
-    <a href="https://www.alejandrarodriguezmorales.com/">Alejandra Rodríguez-Morales</a>), awarded by the Swiss Society of Economics and Statistics (SSES).
+    My job market paper won the <a href="https://www.sses.swiss/awards/young-economist/">2026 Swiss Young Economist Award</a>, awarded by the Swiss Society of Economics and Statistics (SSES).
   </li>
 
   <li>
@@ -207,18 +203,6 @@ title: ""
     My dissertation received the 2026 Best Dissertation Prize in Economics awarded by the University of St. Gallen.
   </li>
 
-    <li>
-      <strong>March 2026:</strong>
-      I accepted a Postdoctoral Researcher position at
-      <a href="https://www.liser.lu/crossing-borders">LISER’s Crossing Borders programme</a>,
-      starting July 2026.
-    </li>
-
-    <li>
-      <strong>February 2026:</strong>
-      Awarded a Ph.D. in Economics (<em>Dr. oec.</em>) with
-      <em>summa cum laude</em>.
-    </li>
   </ul>
 
 </div>
