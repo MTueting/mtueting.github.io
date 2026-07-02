@@ -193,14 +193,14 @@ title: ""
   <h2>News</h2>
 
   <ul class="news-list">
-  <li>
+ <li>
     <strong>June 2026:</strong>
-    My job market paper won the <a href="https://www.sses.swiss/awards/young-economist/">2026 Swiss Young Economist Award</a>, awarded by the Swiss Society of Economics and Statistics (SSES).
+    I won the <a href="https://www.sses.swiss/awards/young-economist/">2026 Swiss Young Economist Award</a>, awarded by the Swiss Society of Economics and Statistics (SSES).
   </li>
-
+    
   <li>
     <strong>May 2026:</strong>
-    My dissertation received the 2026 Best Dissertation Prize in Economics awarded by the University of St. Gallen.
+    My dissertation was awarded the 2026 Best Dissertation Prize in Economics by the University of St. Gallen.
   </li>
 
   </ul>
