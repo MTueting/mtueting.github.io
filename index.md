@@ -33,7 +33,7 @@ title: ""
 
   .profile-image {
     float: right;
-    width: 28%;
+    width: 20%;
     margin-left: 2em;
     margin-bottom: 0.8em;
   }
