@@ -158,7 +158,7 @@ title: ""
 
   <img
     class="profile-image"
-    src="assets/github-img/Photo_cropped.jpg"
+    src="assets/github-img/Michael-Tuting_2961-Edit_2048px_portrait.jpg"
     alt="Portrait"
   />
 
