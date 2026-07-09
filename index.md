@@ -91,6 +91,11 @@ title: ""
     margin-bottom: 0.15em;
   }
 
+  .paper-authors {
+    margin-top: 0.12em;
+    font-size: 0.95em;
+  }
+
   .paper-meta {
     margin-top: 0.08em;
     font-size: 0.93em;
@@ -136,13 +141,6 @@ title: ""
     margin: 2em 0 1.2em 0;
   }
 
-  /* NEW: styling for "coming soon" label */
-  .coming-soon {
-    color: red;
-    font-weight: normal;
-    font-size: 0.95em;
-  }
-
   @media (max-width: 800px) {
     .profile-image {
       float: none;
@@ -171,7 +169,7 @@ title: ""
 
   <p>
     I am a Postdoctoral Researcher at the Luxembourg Institute of Socio-Economic Research (<a href="https://www.liser.lu/crossing-borders">LISER</a>). 
-    My research studies how migration and the organization of production are jointly shaped by spatial, trade, and environmental forces.
+    My work focuses on how climate change and economic shocks reshape where people live and work. I combine microdata with spatial general equilibrium models to understand who can adapt by moving — and who is left behind.
   </p>
 
   <p>
@@ -220,7 +218,6 @@ title: ""
     <li class="paper-entry">
       <span class="paper-title">
         Climate Change, Income Inequality, and Migration in a Spatial Economy
-        <span class="coming-soon">(New version coming soon!)</span>
       </span>
 
       <div class="paper-meta">
@@ -258,12 +255,14 @@ title: ""
 
     <li class="paper-entry">
       <span class="paper-title">
-        Skill Supply, Firm Size, and Economic Development <span class="coming-soon">(New version coming soon!)</span>
-      </span>,
-      with
-      <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a>
-      and
-      <a href="https://markus-poschke.research.mcgill.ca/Index.html">Markus Poschke</a>.
+        Skill Supply, Firm Size, and Economic Development
+      </span>
+      <div class="paper-authors">
+        with
+        <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a>
+        and
+        <a href="https://markus-poschke.research.mcgill.ca/Index.html">Markus Poschke</a>.
+      </div>
 
       <div class="paper-meta">
         <a href="https://www.dropbox.com/scl/fi/1k0byi7lv2hamxy7y48o5/Skill-Supply-Firm-Size-and-Economic-Development.pdf?rlkey=zwfkmg0t8ekads5qasvwo5h8d&st=8rxvl2ki&dl=0">
@@ -320,11 +319,13 @@ title: ""
     <li class="paper-entry">
       <span class="paper-title">
         Language, Work, and the Making of a Common Market
-      </span>,
-      with
-      <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a>
-      and
-      <a href="https://paulschaudt.com/">Paul Schaudt</a>.
+      </span>
+      <div class="paper-authors">
+        with
+        <a href="https://sites.google.com/view/rolandhodler">Roland Hodler</a>
+        and
+        <a href="https://paulschaudt.com/">Paul Schaudt</a>.
+      </div>
     </li>
   </ul>
 
