@@ -40,7 +40,9 @@
 
 {% if site.external %}
 <footer>
-  <div>{{ site.description | default: site.title }}</div>
+  <a href="https://www.liser.lu/" class="footer-logo" aria-label="LISER">
+    <img src="{{ "/assets/github-img/liser-logo.png" | relative_url }}" alt="LISER">
+  </a>
   {% include menu.html menu=site.external %}
 </footer>
 {% endif %}
