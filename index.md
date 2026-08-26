@@ -169,7 +169,7 @@ title: ""
 
   <p>
     I am a Postdoctoral Researcher at the Luxembourg Institute of Socio-Economic Research (<a href="https://www.liser.lu/crossing-borders">LISER</a>). 
-    My work focuses on how climate change and economic shocks reshape where people live and work. I combine microdata with spatial general equilibrium models to understand who can adapt — and who is left behind.
+    My research studies how economic development and shocks — from climate change to skill scarcity — reshape where people live and work and how firms organize production. I combine microdata with quantitative general equilibrium models to understand who can adapt and who is left behind.
   </p>
 
   <p>
