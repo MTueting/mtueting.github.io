@@ -222,7 +222,7 @@ title: ""
 
       <div class="paper-meta">
         <a href="https://mtueting.github.io/job_market_paper/jmp_tueting.pdf">View Paper</a>
-        · Winner, 2026 Swiss Young Economist Award
+        · Prizes: 2026 Swiss Young Economist Award
       </div>
 
       <details>
