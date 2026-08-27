@@ -103,7 +103,7 @@ title: ""
   }
 
   .paper-meta a {
-    color: inherit;
+    color: #2c4a6e;
   }
 
   details {
@@ -222,7 +222,7 @@ title: ""
 
       <div class="paper-meta">
         <a href="https://mtueting.github.io/job_market_paper/jmp_tueting.pdf">View Paper</a>
-        · <strong>Winner, 2026 Swiss Young Economist Award</strong>
+        · Winner, 2026 Swiss Young Economist Award
       </div>
 
       <details>
