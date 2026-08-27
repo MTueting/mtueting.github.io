@@ -219,6 +219,7 @@ title: ""
       <span class="paper-title">
         Climate Change, Income Inequality, and Migration in a Spatial Economy
       </span>
+      <span style="font-weight: 400; color: #555; font-size: 0.93em;">(currently being revised)</span>
 
       <div class="paper-meta">
         <a href="https://mtueting.github.io/job_market_paper/jmp_tueting.pdf">View Paper</a>
