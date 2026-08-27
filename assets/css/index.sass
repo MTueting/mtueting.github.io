@@ -10,9 +10,19 @@
 {% if site.minimal %}
 
 body > header
-  background: #02283B
+  background-color: #02283B
+  background-image: linear-gradient(rgba(2, 40, 59, .25), rgba(2, 40, 59, .55)), url("{{ "/assets/github-img/header-strip.jpg" | relative_url }}")
+  background-size: cover
+  background-position: center
+  background-repeat: no-repeat
   color: $light
   border-bottom: 1px solid reduce(14)
+  min-height: 6em
+  text-shadow: 0 1px 3px rgba(0, 0, 0, .6)
+
+@media (min-width: 40em)
+  body > header
+    min-height: 10em
 
 {% else %}
 
