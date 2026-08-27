@@ -141,21 +141,6 @@ title: ""
     margin: 2em 0 1.2em 0;
   }
 
-  .header-banner {
-    width: 100%;
-    height: 180px;
-    object-fit: cover;
-    object-position: center 60%;
-    display: block;
-    margin-bottom: 1.5em;
-  }
-
-  @media (max-width: 800px) {
-    .header-banner {
-      height: 120px;
-    }
-  }
-
   @media (max-width: 800px) {
     .profile-image {
       float: none;
@@ -166,8 +151,6 @@ title: ""
     }
   }
 </style>
-
-<img class="header-banner" src="assets/github-img/header-strip.jpg" alt="Mountain ridge panorama">
 
 <div class="wrapper">
 
