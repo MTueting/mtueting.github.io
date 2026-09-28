@@ -173,7 +173,7 @@ title: ""
   </p>
 
   <p>
-    I am also affiliated with the Swiss Institute for International Economics and Applied Economic Research (SIAW-HSG) at the University of St. Gallen, where I completed my PhD in 2025. From 2023 to 2024, I visited the Department of Economics at Tufts University, hosted by <a href="https://sites.tufts.edu/storeygard/">Adam Storeygard</a>.
+    I am also affiliated with the Swiss Institute for International Economics and Applied Economic Research (SIAW-HSG) at the University of St. Gallen, where I completed my PhD in 2025. From 2023 to 2024, I visited the Department of Economics at Tufts University, hosted by <a href="https://sites.google.com/site/adamstoreygard/">Adam Storeygard</a>.
   </p>
 
   <p class="top-links">
@@ -270,10 +270,12 @@ title: ""
         <a href="https://www.dropbox.com/scl/fi/1k0byi7lv2hamxy7y48o5/Skill-Supply-Firm-Size-and-Economic-Development.pdf?rlkey=zwfkmg0t8ekads5qasvwo5h8d&st=8rxvl2ki&dl=0">
           View Paper
         </a>
+        {% comment %} Hidden until the paper is published.
         · Coverage: World Bank's 2024
         <a href="https://www.worldbank.org/en/publication/wdr2024/brief/world-development-report-2024-background-papers">
           World Development Report
         </a>
+        {% endcomment %}
       </div>
 
       <details>
