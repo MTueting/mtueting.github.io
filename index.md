@@ -173,7 +173,7 @@ title: ""
   </p>
 
   <p>
-    I am also a Research Associate at the Swiss Institute for International Economics and Applied Economic Research (SIAW-HSG) at the University of St. Gallen, where I completed my PhD in 2025.
+    I am also affiliated with the Swiss Institute for International Economics and Applied Economic Research (SIAW-HSG) at the University of St. Gallen, where I completed my PhD in 2025. From 2023 to 2024, I visited the Department of Economics at Tufts University, hosted by <a href="https://sites.tufts.edu/storeygard/">Adam Storeygard</a>.
   </p>
 
   <p class="top-links">
