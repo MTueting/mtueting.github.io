@@ -328,6 +328,16 @@ title: ""
         <a href="https://paulschaudt.com/">Paul Schaudt</a>.
       </div>
     </li>
+
+    <li class="paper-entry">
+      <span class="paper-title">
+        Amnesties for Illegal Deforestation in Sustainable Supply Chains
+      </span>
+      <div class="paper-authors">
+        with
+        <a href="https://matthieustigler.github.io/">Matthieu Stigler</a>.
+      </div>
+    </li>
   </ul>
 
 </div>
