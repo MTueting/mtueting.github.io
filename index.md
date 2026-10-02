@@ -270,12 +270,10 @@ title: ""
         <a href="https://www.dropbox.com/scl/fi/1k0byi7lv2hamxy7y48o5/Skill-Supply-Firm-Size-and-Economic-Development.pdf?rlkey=zwfkmg0t8ekads5qasvwo5h8d&st=8rxvl2ki&dl=0">
           View Paper
         </a>
-        {% comment %} Hidden until the paper is published.
         · Coverage: World Bank's 2024
         <a href="https://www.worldbank.org/en/publication/wdr2024/brief/world-development-report-2024-background-papers">
           World Development Report
         </a>
-        {% endcomment %}
       </div>
 
       <details>
