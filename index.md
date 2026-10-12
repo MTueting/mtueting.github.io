@@ -191,7 +191,12 @@ title: ""
   <h2>News</h2>
 
   <ul class="news-list">
- <li>
+  <li>
+    <strong>October 2026:</strong>
+    My job market paper was featured in a <a href="https://e-axes.org/research/climate-change-migration-costs-and-policy/">digest</a> by the E-axes Forum on Climate Change, Macroeconomics, and Finance.
+  </li>
+
+  <li>
     <strong>June 2026:</strong>
     I won the <a href="https://www.sses.swiss/awards/young-economist/">2026 Swiss Young Economist Award</a>, awarded by the Swiss Society of Economics and Statistics (SSES).
   </li>
@@ -223,7 +228,8 @@ title: ""
 
       <div class="paper-meta">
         <a href="https://mtueting.github.io/job_market_paper/jmp_tueting.pdf">View Paper</a>
-        · Prizes: 2026 Swiss Young Economist Award
+        · Prizes: <a href="https://www.sses.swiss/awards/young-economist/">2026 Swiss Young Economist Award</a>
+        · Coverage: <a href="https://e-axes.org/research/climate-change-migration-costs-and-policy/">E-axes Forum</a>
       </div>
 
       <details>
