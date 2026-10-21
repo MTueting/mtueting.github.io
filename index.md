@@ -285,33 +285,7 @@ title: ""
       <details>
         <summary>Abstract</summary>
         <p class="paper-abstract">
-          The organization of production varies widely across countries, with firms being
-          substantially smaller in low-income countries. At the same time, educational
-          attainment is lower in low-income countries. How are these two patterns related?
-          In this paper, we examine the relationship between skill endowment and firm size
-          across different stages of economic development. Using harmonized labor force data
-          from 54 countries, we measure the skill intensity of employment by firm size and
-          document four key facts. First, we show that the share of employment in large firms
-          is about twice as high in high-income countries as in low-income countries. Second,
-          across countries, large firms employ more skilled workers than small firms. Third,
-          small firms in high-income countries are nearly as skill-intensive as large firms,
-          but small firms in low-income countries employ far fewer skilled workers than their
-          larger counterparts. Fourth, the skill gap between small and large firms is narrow
-          when the skill premium is low, but it widens substantially when the skill premium
-          is high. These findings suggest that small firms can easily substitute high-skill
-          for low-skill workers when skilled workers are scarce and expensive, whereas large
-          firms are less flexible. As a result, lower availability of high-skilled workers
-          restricts the prevalence of large firms in low-income economies. We then use a
-          span-of-control model with worker skill heterogeneity and two technologies
-          (large- and small-scale) to analyze the impact of skill endowments on firm size
-          distribution and economic development. Calibrated to U.S. data and varying only
-          skill endowments to match those of low-, middle-, and high-income countries, the
-          model replicates observed employment patterns by firm size and the skill intensity
-          of firms across different stages of development. We interpret this as evidence that
-          differences in skill endowments are a central driver of firm size distribution. Our
-          findings imply that skill accumulation promotes development directly, by increasing
-          productivity, and indirectly, by enabling the expansion of larger, more productive
-          firms.
+          Large firms employ a far smaller share of workers in low-income than in highincome countries. Using newly harmonized microdata for 57 countries, we show that large firms are more skill-intensive than small firms, especially where skills are scarce, and that the skill premium is higher there. In a model in which firms choose between a skill-intensive and a traditional technology, skill endowments account for 88% of the cross-country variation in large-firm employment, and technology choice adds a quarter to the output gain from a larger skill endowment. Small firms in low-income countries are thus largely an efficient response to skill scarcity.
         </p>
       </details>
     </li>
