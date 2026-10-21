@@ -285,7 +285,7 @@ title: ""
       <details>
         <summary>Abstract</summary>
         <p class="paper-abstract">
-          Large firms employ a far smaller share of workers in low-income than in highincome countries. Using newly harmonized microdata for 57 countries, we show that large firms are more skill-intensive than small firms, especially where skills are scarce, and that the skill premium is higher there. In a model in which firms choose between a skill-intensive and a traditional technology, skill endowments account for 88% of the cross-country variation in large-firm employment, and technology choice adds a quarter to the output gain from a larger skill endowment. Small firms in low-income countries are thus largely an efficient response to skill scarcity.
+          Large firms employ a far smaller share of workers in low-income than in high-income countries. Using newly harmonized microdata for 57 countries, we show that large firms are more skill-intensive than small firms, especially where skills are scarce, and that the skill premium is higher there. In a model in which firms choose between a skill-intensive and a traditional technology, skill endowments account for 88% of the cross-country variation in large-firm employment, and technology choice adds a quarter to the output gain from a larger skill endowment. Small firms in low-income countries are thus largely an efficient response to skill scarcity.
         </p>
       </details>
     </li>
