@@ -168,6 +168,7 @@ title: ""
 
   .paper-highlights {
     margin-top: 0.12em;
+    font-size: 0.95em;
     font-style: italic;
     color: #3a3f47;
   }
