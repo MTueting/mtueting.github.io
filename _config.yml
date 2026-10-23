@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {title: "Blog", file: "blog.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:michael.tueting@liser.lu"}
+  - {title: Mail, icon: envelope, url: "mailto:michael.tueting@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/MTueting"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/michael-tueting-ba171b31b/"}
 

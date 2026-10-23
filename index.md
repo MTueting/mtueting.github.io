@@ -248,12 +248,12 @@ title: ""
   </p>
 
   <p>
-    I am also affiliated with the Swiss Institute for International Economics and Applied Economic Research (SIAW-HSG) at the University of St. Gallen, where I completed my PhD in 2025. From 2023 to 2024, I visited the Department of Economics at Tufts University, hosted by <a href="https://sites.google.com/site/adamstoreygard/">Adam Storeygard</a>.
+    I am also affiliated with the Swiss Institute for International Economics and Applied Economic Research (SIAW-HSG) at the University of St.Gallen, where I completed my PhD in 2025. From 2023 to 2024, I visited the Department of Economics at Tufts University, hosted by <a href="https://sites.google.com/site/adamstoreygard/">Adam Storeygard</a>.
   </p>
 
   <p class="top-links">
     <a href="https://mtueting.github.io/tueting_CV.pdf">CV</a> ·
-    <a href="mailto:michael.tueting@liser.lu">Email</a> ·
+    <a href="mailto:michael.tueting@gmail.com">Email</a> ·
     <a href="https://scholar.google.com/citations?user=Gl40BNEAAAAJ&hl=en&oi=ao">Google Scholar</a>
   </p>
 
@@ -278,7 +278,7 @@ title: ""
 
   <li>
     <strong>May 2026:</strong>
-    My dissertation won the 2026 prize for the best thesis in Economics in the PhD Program in Economics and Finance at the University of St. Gallen (<a href="https://www.unisg.ch/en/research/phd/graduate-programme-in-economics-and-finance-gpef/">link</a>).
+    My dissertation won the 2026 prize for the best thesis in Economics in the PhD Program in Economics and Finance at the University of St.Gallen (<a href="https://www.unisg.ch/en/research/phd/graduate-programme-in-economics-and-finance-gpef/">link</a>).
   </li>
   </ul>
 

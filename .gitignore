@@ -5,3 +5,6 @@
 Gemfile.lock
 _site
 *.gem
+
+# Local CV source and LaTeX build files (only tueting_CV.pdf is published)
+_cv/
