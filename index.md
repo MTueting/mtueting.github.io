@@ -6,6 +6,7 @@ title: ""
 <style>
   body {
     line-height: 1.55;
+    counter-reset: paper;
   }
 
   .wrapper {
@@ -18,17 +19,39 @@ title: ""
     margin-bottom: 0.45em;
   }
 
+  .wrapper p,
+  .wrapper li {
+    text-align: left;
+  }
+
+  .wrapper .paper-abstract {
+    text-align: justify;
+    hyphens: auto;
+  }
+
+  .wrapper a {
+    color: #2c4a6e;
+    text-decoration-color: rgba(44, 74, 110, 0.35);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+  }
+
+  .wrapper a:hover {
+    text-decoration-color: currentColor;
+  }
+
   h1 {
-    margin-bottom: 0.15em;
+    margin-bottom: 0.05em;
     font-size: 2em;
     font-weight: 700;
   }
 
   .subtitle {
     margin-top: 0;
-    margin-bottom: 1em;
+    margin-bottom: 1.1em;
     color: #555;
-    font-size: 1.02em;
+    font-size: 0.94em;
+    line-height: 1.45;
   }
 
   .profile-image {
@@ -39,13 +62,13 @@ title: ""
   }
 
   .top-links {
-    margin-top: 0.6em;
+    margin-top: 0.8em;
     margin-bottom: 1.1em;
-    font-size: 0.95em;
+    font-size: 1.02em;
   }
 
   .top-links a {
-    text-decoration: none;
+    font-weight: 600;
   }
 
   a {
@@ -79,10 +102,23 @@ title: ""
 
   .paper-list {
     margin-top: 0.2em;
+    list-style: none;
+    padding-left: 0;
   }
 
   .paper-entry {
     margin-bottom: 1.3em;
+    position: relative;
+    padding-left: 1.6em;
+    counter-increment: paper;
+  }
+
+  .paper-entry::before {
+    content: counter(paper) ".";
+    position: absolute;
+    left: 0;
+    font-weight: 600;
+    color: #8a94a3;
   }
 
   .paper-title {
@@ -91,9 +127,49 @@ title: ""
     margin-bottom: 0.15em;
   }
 
+  .paper-status {
+    display: inline-block;
+    margin-left: 0.45em;
+    padding: 0.05em 0.55em;
+    font-size: 0.78em;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: #2c4a6e;
+    background: #eef2f7;
+    border: 1px solid #d3dce8;
+    border-radius: 0.3em;
+    vertical-align: 0.1em;
+    white-space: nowrap;
+  }
+
+  .wrapper a.paper-link {
+    display: inline-block;
+    margin-left: 0.45em;
+    padding: 0.05em 0.6em;
+    font-size: 0.78em;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: #fff;
+    background: #2c4a6e;
+    border: 1px solid #2c4a6e;
+    border-radius: 0.3em;
+    vertical-align: 0.1em;
+    text-decoration: none;
+  }
+
+  .wrapper a.paper-link:hover {
+    background: #1d3550;
+  }
+
   .paper-authors {
     margin-top: 0.12em;
     font-size: 0.95em;
+  }
+
+  .paper-highlights {
+    margin-top: 0.12em;
+    font-style: italic;
+    color: #3a3f47;
   }
 
   .paper-meta {
@@ -119,7 +195,7 @@ title: ""
   .paper-abstract {
     margin-top: 0.35em;
     margin-bottom: 0.2em;
-    font-size: 0.92em;
+    font-size: 0.85em;
     line-height: 1.5;
     color: #333;
   }
@@ -168,7 +244,6 @@ title: ""
   </p>
 
   <p>
-    I am a Postdoctoral Researcher at the Luxembourg Institute of Socio-Economic Research (<a href="https://www.liser.lu/crossing-borders">LISER</a>). 
     My research studies how economic development and shocks — from climate change to skill scarcity — reshape where people live and work and how firms organize production. In my work, I usually combine microdata with quantitative general equilibrium models.
   </p>
 
@@ -193,19 +268,18 @@ title: ""
   <ul class="news-list">
   <li>
     <strong>October 2026:</strong>
-    My job market paper was featured in a <a href="https://e-axes.org/research/climate-change-migration-costs-and-policy/">digest</a> by the E-axes Forum on Climate Change, Macroeconomics, and Finance.
+    My job market paper was featured in a digest by the E-axes Forum on Climate Change, Macroeconomics, and Finance (<a href="https://e-axes.org/research/climate-change-migration-costs-and-policy/">link</a>).
   </li>
 
   <li>
     <strong>June 2026:</strong>
-    I won the <a href="https://www.sses.swiss/awards/young-economist/">2026 Swiss Young Economist Award</a>, awarded by the Swiss Society of Economics and Statistics (SSES).
-  </li>
-    
-  <li>
-    <strong>May 2026:</strong>
-    My dissertation was awarded the 2026 Best Dissertation Prize in Economics by the University of St. Gallen.
+    I won the 2026 Swiss Young Economist Award, awarded by the Swiss Society of Economics and Statistics (<a href="https://www.sses.swiss/awards/young-economist/">link</a>).
   </li>
 
+  <li>
+    <strong>May 2026:</strong>
+    My dissertation won the 2026 prize for the best thesis in Economics in the PhD Program in Economics and Finance at the University of St. Gallen (<a href="https://www.unisg.ch/en/research/phd/graduate-programme-in-economics-and-finance-gpef/">link</a>).
+  </li>
   </ul>
 
 </div>
@@ -214,23 +288,39 @@ title: ""
 
 <div class="wrapper">
 
-  <h2>Research</h2>
-
-  <h3>Working papers</h3>
+  <h2>Working papers</h2>
 
   <ul class="paper-list">
 
     <li class="paper-entry">
       <span class="paper-title">
+        Skill Supply, Firm Size, and Economic Development
+      </span>
+      <a class="paper-link" href="https://www.dropbox.com/scl/fi/1k0byi7lv2hamxy7y48o5/Skill-Supply-Firm-Size-and-Economic-Development.pdf?rlkey=zwfkmg0t8ekads5qasvwo5h8d&st=8rxvl2ki&dl=0">Paper</a>
+      <span class="paper-status">Submitted</span>
+      <div class="paper-authors">
+        with
+        <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a>
+        and
+        <a href="https://markus-poschke.research.mcgill.ca/Index.html">Markus Poschke</a>.
+      </div>
+      <div class="paper-highlights">Featured in the World Bank's <a href="https://www.worldbank.org/en/publication/wdr2024/brief/world-development-report-2024-background-papers">World Development Report 2024</a></div>
+
+      <details>
+        <summary>Abstract</summary>
+        <p class="paper-abstract">
+          Large firms employ a far smaller share of workers in low-income than in high-income countries. Using newly harmonized microdata for 57 countries, we show that large firms are more skill-intensive than small firms, especially where skills are scarce, and that the skill premium is higher there. In a model in which firms choose between a skill-intensive and a traditional technology, skill endowments account for 88% of the cross-country variation in large-firm employment, and technology choice adds about a third to the output gain from a larger skill endowment. Small firms in low-income countries are thus largely an efficient response to skill scarcity.
+        </p>
+      </details>
+    </li>
+
+    <li class="paper-entry">
+      <span class="paper-title">
         Climate Change, Income Inequality, and Migration in a Spatial Economy
       </span>
-      <span style="font-weight: 400; color: #555; font-size: 0.93em;">(currently being revised)</span>
-
-      <div class="paper-meta">
-        <a href="https://mtueting.github.io/job_market_paper/jmp_tueting.pdf">View Paper</a>
-        · Prizes: <a href="https://www.sses.swiss/awards/young-economist/">2026 Swiss Young Economist Award</a>
-        · Coverage: <a href="https://e-axes.org/research/climate-change-migration-costs-and-policy/">E-axes Forum</a>
-      </div>
+      <a class="paper-link" href="https://mtueting.github.io/job_market_paper/jmp_tueting.pdf">Paper</a>
+      <div class="paper-authors">Solo-authored.</div>
+      <div class="paper-highlights">Winner of the <a href="https://www.sses.swiss/awards/young-economist/">2026 Swiss Young Economist Award</a> · Featured by the <a href="https://e-axes.org/research/climate-change-migration-costs-and-policy/">E-axes Forum</a></div>
 
       <details>
         <summary>Abstract</summary>
@@ -261,43 +351,20 @@ title: ""
       </details>
     </li>
 
-    <li class="paper-entry">
-      <span class="paper-title">
-        Skill Supply, Firm Size, and Economic Development
-      </span>
-      <div class="paper-authors">
-        with
-        <a href="https://sites.google.com/site/gottliebcharles/">Charles Gottlieb</a>
-        and
-        <a href="https://markus-poschke.research.mcgill.ca/Index.html">Markus Poschke</a>.
-      </div>
-
-      <div class="paper-meta">
-        <a href="https://www.dropbox.com/scl/fi/1k0byi7lv2hamxy7y48o5/Skill-Supply-Firm-Size-and-Economic-Development.pdf?rlkey=zwfkmg0t8ekads5qasvwo5h8d&st=8rxvl2ki&dl=0">
-          View Paper
-        </a>
-        · Coverage: World Bank's 2024
-        <a href="https://www.worldbank.org/en/publication/wdr2024/brief/world-development-report-2024-background-papers">
-          World Development Report
-        </a>
-      </div>
-
-      <details>
-        <summary>Abstract</summary>
-        <p class="paper-abstract">
-          Large firms employ a far smaller share of workers in low-income than in high-income countries. Using newly harmonized microdata for 57 countries, we show that large firms are more skill-intensive than small firms, especially where skills are scarce, and that the skill premium is higher there. In a model in which firms choose between a skill-intensive and a traditional technology, skill endowments account for 88% of the cross-country variation in large-firm employment, and technology choice adds a quarter to the output gain from a larger skill endowment. Small firms in low-income countries are thus largely an efficient response to skill scarcity.
-        </p>
-      </details>
-    </li>
-
   </ul>
 
-  <h3>Work in progress</h3>
+</div>
+
+<hr class="section-break">
+
+<div class="wrapper">
+
+  <h2>Work in progress</h2>
 
   <ul class="paper-list">
     <li class="paper-entry">
       <span class="paper-title">
-        Language, Work, and the Making of a Common Market
+        Language and Work: Evidence from Switzerland
       </span>
       <div class="paper-authors">
         with
@@ -305,16 +372,37 @@ title: ""
         and
         <a href="https://paulschaudt.com/">Paul Schaudt</a>.
       </div>
+      <details>
+        <summary>Abstract</summary>
+        <p class="paper-abstract">
+          What does a language border cost an economy? When it is costly to commute or move across one,
+          workers miss out on the jobs that suit them best and firms miss out on the best workers.
+          Using Swiss census microdata and a quantitative model of where people live and work, we estimate
+          how much lower GDP is because of Switzerland's internal language borders, and what language
+          education is worth economically.
+        </p>
+      </details>
     </li>
 
     <li class="paper-entry">
       <span class="paper-title">
-        Amnesties for Illegal Deforestation in Sustainable Supply Chains
+        Exclusion and Reinstatement in Zero-Deforestation Supply Chains
       </span>
       <div class="paper-authors">
         with
         <a href="https://matthieustigler.github.io/">Matthieu Stigler</a>.
       </div>
+      <details>
+        <summary>Abstract</summary>
+        <p class="paper-abstract">
+          Brazil's zero-deforestation cattle agreements exclude producers who have cleared forest illegally.
+          But what should happen to them afterwards? Using a quantitative model of land use, calibrated to
+          animal-transit, land-use and embargo data from Pará, we compare policies for dealing with past
+          offenders, from permanent exclusion to amnesties and conditional routes back into the market.
+          We evaluate them by social welfare and forest loss, and show which strategies work and which
+          weaken deterrence.
+        </p>
+      </details>
     </li>
   </ul>
 
