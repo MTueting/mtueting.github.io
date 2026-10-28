@@ -297,7 +297,7 @@ title: ""
       <span class="paper-title">
         Skill Supply, Firm Size, and Economic Development
       </span>
-      <a class="paper-link" href="https://www.dropbox.com/scl/fi/1k0byi7lv2hamxy7y48o5/Skill-Supply-Firm-Size-and-Economic-Development.pdf?rlkey=zwfkmg0t8ekads5qasvwo5h8d&st=8rxvl2ki&dl=0">Paper</a>
+      <a class="paper-link" href="/assets/skill_supply_and_firms_WP.pdf">Paper</a>
       <span class="paper-status">Submitted</span>
       <div class="paper-authors">
         with
@@ -310,7 +310,7 @@ title: ""
       <details>
         <summary>Abstract</summary>
         <p class="paper-abstract">
-          Large firms employ a far smaller share of workers in low-income than in high-income countries. Using newly harmonized microdata for 57 countries, we show that large firms are more skill-intensive than small firms, especially where skills are scarce, and that the skill premium is higher there. In a model in which firms choose between a skill-intensive and a traditional technology, skill endowments account for 88% of the cross-country variation in large-firm employment, and technology choice adds about a third to the output gain from a larger skill endowment. Small firms in low-income countries are thus largely an efficient response to skill scarcity.
+          Large firms are more productive than small firms, yet in low-income countries they employ only a small share of workers. Using newly harmonized microdata that link workers’ education and wages to the size of their employer for 57 countries, we document four facts: Countries with lower skill endowments have 1) less employment in large firms and 2) a greater skill premium, and 3) large firms are more skill-intensive than small firms across countries, 4) with a gap that is larger in low-income countries. A model in which heterogeneous firms choose between a skill-intensive modern technology and a traditional one matches these patterns. In a quantitative analysis of the model, skill endowments account for 88% of the cross-country variation in large-firm employment, and technology choice adds a third to a country’s output gain from a larger skill endowment. Small firms in low-income countries are thus largely an efficient response to skill scarcity, and adjustments in the size structure of firms are an important vector of output gains from increasing skill supply.
         </p>
       </details>
     </li>
@@ -319,7 +319,7 @@ title: ""
       <span class="paper-title">
         Climate Change, Income Inequality, and Migration in a Spatial Economy
       </span>
-      <a class="paper-link" href="https://mtueting.github.io/job_market_paper/jmp_tueting.pdf">Paper</a>
+      <a class="paper-link" href="/assets/jmp_tueting.pdf">Paper</a>
       <div class="paper-authors">Solo-authored.</div>
       <div class="paper-highlights">Winner of the <a href="https://www.sses.swiss/awards/young-economist/">2026 Swiss Young Economist Award</a> · Featured by the <a href="https://e-axes.org/research/climate-change-migration-costs-and-policy/">E-axes Forum</a></div>
 
