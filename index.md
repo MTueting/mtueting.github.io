@@ -305,7 +305,7 @@ title: ""
         and
         <a href="https://markus-poschke.research.mcgill.ca/Index.html">Markus Poschke</a>.
       </div>
-      <div class="paper-highlights">Featured in the World Bank's <a href="https://www.worldbank.org/en/publication/wdr2024/brief/world-development-report-2024-background-papers">World Development Report 2024</a></div>
+      <div class="paper-highlights"><a href="https://grp.cepr.org/publications/steg-working-paper/skill-supply-firms-size-and-economic-development">STEG Working Paper</a> · Featured in the World Bank's <a href="https://www.worldbank.org/en/publication/wdr2024/brief/world-development-report-2024-background-papers">World Development Report 2024</a></div>
 
       <details>
         <summary>Abstract</summary>
