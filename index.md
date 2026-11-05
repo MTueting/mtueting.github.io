@@ -249,7 +249,7 @@ title: ""
   </p>
 
   <p>
-    I am also affiliated with the Swiss Institute for International Economics and Applied Economic Research (SIAW-HSG) at the University of St.Gallen, where I completed my PhD in 2025. From 2023 to 2024, I visited the Department of Economics at Tufts University, hosted by <a href="https://sites.google.com/site/adamstoreygard/">Adam Storeygard</a>.
+    I am also a Research Affiliate of the <a href="https://www.iza.org/person/34169/michael-tueting">IZA Institute of Labor Economics</a> and am affiliated with the Swiss Institute for International Economics and Applied Economic Research (SIAW-HSG) at the University of St.Gallen, where I completed my PhD in 2025. From 2023 to 2024, I visited the Department of Economics at Tufts University, hosted by <a href="https://sites.google.com/site/adamstoreygard/">Adam Storeygard</a>.
   </p>
 
   <p class="top-links">
@@ -267,6 +267,11 @@ title: ""
   <h2>News</h2>
 
   <ul class="news-list">
+  <li>
+    <strong>November 2026:</strong>
+    I became a Research Affiliate of the IZA Institute of Labor Economics (<a href="https://www.iza.org/person/34169/michael-tueting">link</a>), and my paper with Charles Gottlieb and Markus Poschke, “Skill Supply, Firm Size, and Economic Development”, is now an IZA Discussion Paper (<a href="https://www.iza.org/publications/dp/19052/skill-supply-firm-size-and-economic-development">link</a>).
+  </li>
+
   <li>
     <strong>October 2026:</strong>
     My job market paper was featured in a digest by the E-axes Forum on Climate Change, Macroeconomics, and Finance (<a href="https://e-axes.org/research/climate-change-migration-costs-and-policy/">link</a>).
@@ -305,7 +310,7 @@ title: ""
         and
         <a href="https://markus-poschke.research.mcgill.ca/Index.html">Markus Poschke</a>.
       </div>
-      <div class="paper-highlights"><a href="https://grp.cepr.org/publications/steg-working-paper/skill-supply-firms-size-and-economic-development">STEG Working Paper</a> · Featured in the World Bank's <a href="https://www.worldbank.org/en/publication/wdr2024/brief/world-development-report-2024-background-papers">World Development Report 2024</a></div>
+      <div class="paper-highlights"><a href="https://www.iza.org/publications/dp/19052/skill-supply-firm-size-and-economic-development">IZA Discussion Paper 19052</a> · <a href="https://grp.cepr.org/publications/steg-working-paper/skill-supply-firms-size-and-economic-development">STEG Working Paper 165</a> · Featured in the World Bank's <a href="https://www.worldbank.org/en/publication/wdr2024/brief/world-development-report-2024-background-papers">World Development Report 2024</a></div>
 
       <details>
         <summary>Abstract</summary>
