@@ -326,28 +326,23 @@ title: ""
       <details>
         <summary>Abstract</summary>
         <p class="paper-abstract">
-          Negative local labor market shocks create strong incentives to migrate,
-          yet low-income households often remain in place. This paper studies how
-          income shapes migration responses to climate change and the resulting welfare
-          effects. Using Brazilian Census data, I show that high-income individuals
-          are systematically more mobile than low-income individuals from the same
-          origin. To interpret this pattern and quantify the impacts of climate change,
-          I develop a dynamic spatial general equilibrium model with monetary migration
-          costs and liquidity constraints, embedded in a two-sector trade framework in
-          which rising temperatures depress agricultural productivity. The quantitative
-          results imply sharply regressive welfare losses: in already hot regions,
-          low-income households experience permanent consumption declines of about
-          0.6–0.9% per period, with worst-case losses near 3.3%, while richer households
-          are largely insulated. Two mechanisms drive these disparities: climate shocks
-          reduce agricultural wages in hot areas, and monetary migration costs
-          disproportionately burden low-income individuals, limiting their ability to
-          relocate in response. A counterfactual policy that makes low-income individuals
-          as mobile as high-income individuals—modeled as a targeted subsidy—raises
-          low-income individuals’ welfare by 24%, offsets 4% of climate losses, and
-          increases aggregate output by relocating labor to more productive regions.
-          Adaptation to climate change depends not only on where productivity shocks
-          occur but also on who can afford to relocate. Consequently, adverse shocks
-          tend to fall disproportionately on those unable to afford relocation.
+          Those hit hardest by climate change are often too poor to move away from it.
+          Using Brazilian census microdata, I show that within the same origin, migration
+          rises steeply with income, and that when the poor got richer in the 2000s, they
+          left lagging places more. I build a dynamic spatial model in which moving costs
+          cash, not only utility, and heat lowers farm productivity. A 500&nbsp;km move
+          costs around a year’s earnings for the median least-educated worker. Under high
+          emissions, climate change costs 2.56% of consumption, permanently, and the
+          poorest quarter in hot regions loses 25% more than the richest. Removing the
+          fare altogether would reduce the climate loss of the low-income workers it holds
+          back in the hottest regions by 11.7%. A tax-financed subsidy that pays part of
+          the fare for those with below-median income has three effects. For those who
+          move in response, it reduces the loss from climate change, by 4.7% in the
+          hottest regions, and it is worth 5.19% of consumption to them; and it raises
+          national output, by 14.8% of a year’s output cumulated to 2100, as workers
+          resettle in more productive regions. Migration is often cast as a way to adapt
+          to climate change, but it is an option only for those who can afford it; paying
+          part of the fare opens it to the poor and raises national output along the way.
         </p>
       </details>
     </li>
