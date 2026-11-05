@@ -326,20 +326,19 @@ title: ""
       <details>
         <summary>Abstract</summary>
         <p class="paper-abstract">
-          Those hit hardest by climate change are often too poor to move away from it.
+          The workers hit hardest by climate change are often too poor to move away from it.
           Using Brazilian census microdata, I show that within the same origin, migration
-          rises steeply with income, and that when the poor got richer in the 2000s, they
-          left lagging places more. I build a dynamic spatial model in which moving costs
-          cash, not only utility, and heat lowers farm productivity. A 500&nbsp;km move
-          costs around a year’s earnings for the median least-educated worker. Under high
+          rises with income, and that groups whose incomes rose faster in the 2000s left
+          lagging places more. I build a dynamic spatial model in which moving costs cash,
+          not only utility, and heat lowers farm productivity. A 500&nbsp;km move costs
+          around a year’s earnings for the median least-educated worker. Under high
           emissions, climate change costs 2.56% of consumption, permanently, and the
           poorest quarter in hot regions loses 25% more than the richest. Removing the
-          fare altogether would reduce the climate loss of the low-income workers it holds
-          back in the hottest regions by 11.7%. A tax-financed subsidy that pays part of
-          the fare for those with below-median income has three effects. For those who
-          move in response, it reduces the loss from climate change, by 4.7% in the
-          hottest regions, and it is worth 5.19% of consumption to them; and it raises
-          national output, by 14.8% of a year’s output cumulated to 2100, as workers
+          fare altogether would cut the climate loss of the low-income workers it holds
+          back in the hottest regions by 11.7 percent. A tax-financed subsidy that pays
+          part of the fare for workers with below-median income is worth 5.2% of
+          consumption to those it induces to leave the hottest regions, and it raises
+          national output by 14.8% of a year’s output cumulated to 2100, as workers
           resettle in more productive regions. Migration is often cast as a way to adapt
           to climate change, but it is an option only for those who can afford it; paying
           part of the fare opens it to the poor and raises national output along the way.
